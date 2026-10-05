@@ -1,4 +1,2063 @@
 [
-  {"name": "My first post", "info": "This is what I want to show"},
-  {"name": "My second post", "info": "More text here"}
+  {
+    "id": 1,
+    "hadithNumber": 1,
+    "bookNumber": 1,
+    "bookNameEn": "Revelation",
+    "bookNameAr": "كتاب بدء الوحي",
+    "chapterEn": "How the Divine Inspiration started to the Messenger of Allah ﷺ",
+    "chapterAr": "باب كَيْفَ كَانَ بَدْءُ الوَحْيِ إِلَى رَسُولِ اللَّهِ ﷺ",
+    "arabicSanad": "حَدَّثَنَا الحُمَيْدِيُّ عَبْدُ اللَّهِ بْنُ الزُّبَيْرِ قَالَ: حَدَّثَنَا سُفْيَانُ قَالَ: حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ الأَنْصَارِيُّ قَالَ: أَخْبَرَنِي مُحَمَّدُ بْنُ إِبْرَاهِيمَ التَّيْمِيُّ، أَنَّهُ سَمِعَ عَلْقَمَةَ بْنَ وَقَّاصٍ اللَّيْثِيَّ يَقُولُ: سَمِعْتُ عُمَرَ بْنَ الخَطَّابِ رَضِيَ اللَّهُ عَنْهُ عَلَى المِنْبَرِ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ ﷺ يَقُولُ:",
+    "arabicMatn": "إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى، فَمَنْ كَانَتْ هِجْرَتُهُ إِلَى دُنْيَا يُصِيبُهَا، أَوْ إِلَى امْرَأَةٍ يَنْكِحُهَا، فَهِجْرَتُهُ إِلَى مَا هَاجَرَ إِلَيْهِ.",
+    "englishTranslation": "I heard the Messenger of Allah ﷺ say: \"Actions are judged by motives, and for every person is that which they intended. Thus, he whose migration was for the sake of worldly gain or for a woman he might wed, his migration is for whatever purpose he migrated.\"",
+    "companion": "'Umar ibn al-Khattab",
+    "companionId": "umar-ibn-al-khattab",
+    "primaryNarratorId": "al-humaydi",
+    "theme": "Intentions & Sincerity",
+    "keyLesson": "Imam al-Bukhari opened his masterpiece with this hadith to emphasize that no action or scholastic striving is accepted unless initiated with pure, unadulterated intention for Allah alone.",
+    "sunnahRef": "Sahih al-Bukhari 1",
+    "inBookRef": "Book 1, Hadith 1",
+    "uscMsaRef": "Vol. 1, Book 1, Hadith 1",
+    "sunnahUrl": "https://sunnah.com/bukhari:1",
+    "chain": [
+      {
+        "narratorId": "al-bukhari",
+        "order": 1,
+        "roleTitle": "Compiler & Author",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us",
+        "narrationNote": "Recorded in his Sahih after istikharah prayer."
+      },
+      {
+        "narratorId": "al-humaydi",
+        "order": 2,
+        "roleTitle": "Direct Teacher",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "sufyan-ibn-uyaynah",
+        "order": 3,
+        "roleTitle": "Successor's Successor (Atba')",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "yahya-ibn-said-al-ansari",
+        "order": 4,
+        "roleTitle": "Successor (Tabi'i)",
+        "transmissionFormulaAr": "أَخْبَرَنِي",
+        "transmissionFormulaEn": "Informed me"
+      },
+      {
+        "narratorId": "muhammad-ibn-ibrahim",
+        "order": 5,
+        "roleTitle": "Successor (Tabi'i)",
+        "transmissionFormulaAr": "سَمِعَ",
+        "transmissionFormulaEn": "Heard"
+      },
+      {
+        "narratorId": "alqama-ibn-waqqas",
+        "order": 6,
+        "roleTitle": "Senior Successor (Kibar al-Tabi'in)",
+        "transmissionFormulaAr": "سَمِعْتُ",
+        "transmissionFormulaEn": "I heard"
+      },
+      {
+        "narratorId": "umar-ibn-al-khattab",
+        "order": 7,
+        "roleTitle": "Companion (Sahabi)",
+        "transmissionFormulaAr": "سَمِعْتُ رَسُولَ اللَّهِ",
+        "transmissionFormulaEn": "I heard the Messenger of Allah"
+      },
+      {
+        "narratorId": "prophet-muhammad",
+        "order": 8,
+        "roleTitle": "Messenger of Allah ﷺ",
+        "transmissionFormulaAr": "يَقُولُ",
+        "transmissionFormulaEn": "Saying"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "hadithNumber": 2,
+    "bookNumber": 1,
+    "bookNameEn": "Revelation",
+    "bookNameAr": "كتاب بدء الوحي",
+    "chapterEn": "How the Divine Inspiration started to the Messenger of Allah ﷺ",
+    "chapterAr": "باب كَيْفَ كَانَ بَدْءُ الوَحْيِ إِلَى رَسُولِ اللَّهِ ﷺ",
+    "arabicSanad": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ قَالَ: أَخْبَرَنَا مَالِكٌ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ أُمِّ المُؤْمِنِينَ رَضِيَ اللَّهُ عَنْهَا:",
+    "arabicMatn": "أَنَّ الحَارِثَ بْنَ هِشَامٍ رَضِيَ اللَّهُ عَنْهُ سَأَلَ رَسُولَ اللَّهِ ﷺ فَقَالَ: يَا رَسُولَ اللَّهِ، كَيْفَ يَأْتِيكَ الوَحْيُ؟ فَقَالَ رَسُولُ اللَّهِ ﷺ: «أَحْيَانًا يَأْتِينِي مِثْلَ صَلْصَلَةِ الجَرَسِ، وَهُوَ أَشَدُّهُ عَلَيَّ، فَيُفْصَمُ عَنِّي وَقَدْ وَعَيْتُ عَنْهُ مَا قَالَ، وَأَحْيَانًا يَتَمَثَّلُ لِي المَلَكُ رَجُلًا فَيُكَلِّمُنِي فَأَعِي مَا يَقُولُ». قَالَتْ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا: وَلَقَدْ رَأَيْتُهُ يَنْزِلُ عَلَيْهِ الوَحْيُ فِي اليَوْمِ الشَّدِيدِ البَرْدِ، فَيَفْصِمُ عَنْهُ وَإِنَّ جَبِينَهُ لَيَتَفَصَّدُ عَرَقًا.",
+    "englishTranslation": "Al-Harith ibn Hisham asked the Messenger of Allah ﷺ: \"O Messenger of Allah! How does divine inspiration come to you?\" The Messenger of Allah ﷺ replied: \"Sometimes it comes to me like the tolling of a bell, and that is the hardest upon me; then this state leaves me when I have grasped what was said. And sometimes the Angel appears to me in the likeness of a man and speaks to me, and I understand what he says.\" 'A'isha added: \"Verily I saw the Prophet being inspired divinely on an intensely cold day and noticed sweat dripping from his forehead as the inspiration ceased.\"",
+    "companion": "'A'isha bint Abi Bakr",
+    "companionId": "aisha-bint-abi-bakr",
+    "primaryNarratorId": "abdullah-ibn-yusuf",
+    "theme": "Nature of Revelation",
+    "keyLesson": "Illustrates the immense metaphysical weight of receiving divine speech, requiring tremendous spiritual receptivity and endurance from the Prophet ﷺ.",
+    "sunnahRef": "Sahih al-Bukhari 2",
+    "inBookRef": "Book 1, Hadith 2",
+    "uscMsaRef": "Vol. 1, Book 1, Hadith 2",
+    "sunnahUrl": "https://sunnah.com/bukhari:2",
+    "chain": [
+      {
+        "narratorId": "al-bukhari",
+        "order": 1,
+        "roleTitle": "Compiler & Author",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "abdullah-ibn-yusuf",
+        "order": 2,
+        "roleTitle": "Direct Teacher",
+        "transmissionFormulaAr": "أَخْبَرَنَا",
+        "transmissionFormulaEn": "Informed us"
+      },
+      {
+        "narratorId": "malik-ibn-anas",
+        "order": 3,
+        "roleTitle": "Successor's Successor (Atba')",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "hisham-ibn-urwah",
+        "order": 4,
+        "roleTitle": "Successor (Tabi'i)",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "urwah-ibn-al-zubayr",
+        "order": 5,
+        "roleTitle": "Senior Successor (Kibar al-Tabi'in)",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "aisha-bint-abi-bakr",
+        "order": 6,
+        "roleTitle": "Companion (Sahabi)",
+        "transmissionFormulaAr": "أَنَّ",
+        "transmissionFormulaEn": "Narrating that"
+      },
+      {
+        "narratorId": "prophet-muhammad",
+        "order": 7,
+        "roleTitle": "Messenger of Allah ﷺ",
+        "transmissionFormulaAr": "فَقَالَ",
+        "transmissionFormulaEn": "He said"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "hadithNumber": 6,
+    "bookNumber": 1,
+    "bookNameEn": "Revelation",
+    "bookNameAr": "كتاب بدء الوحي",
+    "chapterEn": "The supreme generosity of the Prophet ﷺ during Ramadan",
+    "chapterAr": "باب كَانَ النَّبِيُّ ﷺ أَجْوَدَ النَّاسِ فِي رَمَضَانَ",
+    "arabicSanad": "حَدَّثَنَا عَبْدَانُ قَالَ: أَخْبَرَنَا عَبْدُ اللَّهِ قَالَ: أَخْبَرَنَا يُونُسُ، عَنِ الزُّهْرِيِّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عَبَّاسٍ قَالَ:",
+    "arabicMatn": "كَانَ رَسُولُ اللَّهِ ﷺ أَجْوَدَ النَّاسِ، وَكَانَ أَجْوَدُ مَا يَكُونُ فِي رَمَضَانَ حِينَ يَلْقَاهُ جِبْرِيلُ، وَكَانَ يَلْقَاهُ فِي كُلِّ لَيْلَةٍ مِنْ رَمَضَانَ فَيُدَارِسُهُ القُرْآنَ، فَلَرَسُولُ اللَّهِ ﷺ أَجْوَدُ بِالخَيْرِ مِنَ الرِّيحِ المُرْسَلَةِ.",
+    "englishTranslation": "Narrated Ibn `Abbas: The Messenger of Allah ﷺ was the most generous of all the people, and he used to reach the peak in generosity in Ramadan when Gabriel met him. Gabriel used to meet him every night of Ramadan to study the Qur'an together; and the Messenger of Allah ﷺ was more generous in giving charity and doing good than the blowing, unconfined wind.",
+    "companion": "'Abdullah ibn 'Abbas",
+    "companionId": "abdullah-ibn-abbas",
+    "primaryNarratorId": "ali-ibn-al-madini",
+    "theme": "Generosity & Quranic Study",
+    "keyLesson": "Direct contact with the Qur'an and divine revelation unleashes unbounded altruism and charity in the heart of a believer.",
+    "sunnahRef": "Sahih al-Bukhari 6",
+    "inBookRef": "Book 1, Hadith 6",
+    "uscMsaRef": "Vol. 1, Book 1, Hadith 5",
+    "sunnahUrl": "https://sunnah.com/bukhari:6",
+    "chain": [
+      {
+        "narratorId": "al-bukhari",
+        "order": 1,
+        "roleTitle": "Compiler & Author",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "ali-ibn-al-madini",
+        "order": 2,
+        "roleTitle": "Direct Teacher",
+        "transmissionFormulaAr": "أَخْبَرَنَا",
+        "transmissionFormulaEn": "Informed us"
+      },
+      {
+        "narratorId": "sufyan-ibn-uyaynah",
+        "order": 3,
+        "roleTitle": "Successor's Successor (Atba')",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "ibn-shihab-al-zuhri",
+        "order": 4,
+        "roleTitle": "Successor (Tabi'i)",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "abdullah-ibn-abbas",
+        "order": 5,
+        "roleTitle": "Companion (Sahabi)",
+        "transmissionFormulaAr": "قَالَ",
+        "transmissionFormulaEn": "Narrated"
+      },
+      {
+        "narratorId": "prophet-muhammad",
+        "order": 6,
+        "roleTitle": "Messenger of Allah ﷺ",
+        "transmissionFormulaAr": "كَانَ",
+        "transmissionFormulaEn": "Character of"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "hadithNumber": 8,
+    "bookNumber": 2,
+    "bookNameEn": "Belief (Al-Iman)",
+    "bookNameAr": "كتاب الإيمان",
+    "chapterEn": "The Five Pillars on which Islam is Built",
+    "chapterAr": "باب بُنِيَ الإِسْلاَمُ عَلَى خَمْسٍ",
+    "arabicSanad": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ قَالَ: أَخْبَرَنَا مَالِكٌ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا:",
+    "arabicMatn": "أَنَّ رَسُولَ اللَّهِ ﷺ قَالَ: «بُنِيَ الإِسْلاَمُ عَلَى خَمْسٍ: شَهَادَةِ أَنْ لاَ إِلَهَ إِلَّا اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ، وَإِقَامِ الصَّلاَةِ، وَإِيتَاءِ الزَّكَاةِ، وَالحَجِّ، وَصَوْمِ رَمَضَانَ».",
+    "englishTranslation": "The Messenger of Allah ﷺ said: \"Islam is built on five pillars: To testify that none has the right to be worshiped but Allah and Muhammad is the Messenger of Allah, to establish the prayer, to pay Zakat, to perform Hajj (pilgrimage), and to observe fasts during the month of Ramadan.\"",
+    "companion": "'Abdullah ibn 'Umar",
+    "companionId": "abdullah-ibn-umar",
+    "primaryNarratorId": "abdullah-ibn-yusuf",
+    "theme": "Foundations of Faith",
+    "keyLesson": "This narration incorporates the celebrated \"Golden Chain\" (Malik ➔ Nafi' ➔ Ibn 'Umar) and defines the architectural core supporting the entire structure of faith.",
+    "sunnahRef": "Sahih al-Bukhari 8",
+    "inBookRef": "Book 2, Hadith 1",
+    "uscMsaRef": "Vol. 1, Book 2, Hadith 8",
+    "sunnahUrl": "https://sunnah.com/bukhari:8",
+    "chain": [
+      {
+        "narratorId": "al-bukhari",
+        "order": 1,
+        "roleTitle": "Compiler & Author",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "abdullah-ibn-yusuf",
+        "order": 2,
+        "roleTitle": "Direct Teacher",
+        "transmissionFormulaAr": "أَخْبَرَنَا",
+        "transmissionFormulaEn": "Informed us"
+      },
+      {
+        "narratorId": "malik-ibn-anas",
+        "order": 3,
+        "roleTitle": "Successor's Successor (Atba')",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "nafi-mawla-ibn-umar",
+        "order": 4,
+        "roleTitle": "Successor (Tabi'i)",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "abdullah-ibn-umar",
+        "order": 5,
+        "roleTitle": "Companion (Sahabi)",
+        "transmissionFormulaAr": "أَنَّ رَسُولَ اللَّهِ",
+        "transmissionFormulaEn": "That the Messenger of Allah"
+      },
+      {
+        "narratorId": "prophet-muhammad",
+        "order": 6,
+        "roleTitle": "Messenger of Allah ﷺ",
+        "transmissionFormulaAr": "قَالَ",
+        "transmissionFormulaEn": "Said"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "hadithNumber": 10,
+    "bookNumber": 2,
+    "bookNameEn": "Belief (Al-Iman)",
+    "bookNameAr": "كتاب الإيمان",
+    "chapterEn": "A Muslim is one from whose tongue and hands Muslims are safe",
+    "chapterAr": "باب المُسْلِمُ مَنْ سَلِمَ المُسْلِمُونَ مِنْ لِسَانِهِ وَيَدِهِ",
+    "arabicSanad": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ قَالَ: حَدَّثَنَا سُفْيَانُ الثَّوْرِيُّ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، قَالَ: قَالُوا يَا رَسُولَ اللَّهِ، أَيُّ الإِسْلاَمِ أَفْضَلُ؟ قَالَ:",
+    "arabicMatn": "«مَنْ سَلِمَ المُسْلِمُونَ مِنْ لِسَانِهِ وَيَدِهِ».",
+    "englishTranslation": "The Companions asked: \"O Messenger of Allah! Whose Islam is the best?\" He ﷺ replied: \"The one from whose tongue and hands the Muslims are safe.\"",
+    "companion": "Abu Hurairah",
+    "companionId": "abu-hurairah",
+    "primaryNarratorId": "qutaibah-ibn-said",
+    "theme": "Interpersonal Ethics & Safety",
+    "keyLesson": "True faith is outwardly proven when other human beings are shielded from harm, gossip, deceit, and physical injustice.",
+    "sunnahRef": "Sahih al-Bukhari 10",
+    "inBookRef": "Book 2, Hadith 3",
+    "uscMsaRef": "Vol. 1, Book 2, Hadith 10",
+    "sunnahUrl": "https://sunnah.com/bukhari:10",
+    "chain": [
+      {
+        "narratorId": "al-bukhari",
+        "order": 1,
+        "roleTitle": "Compiler & Author",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "qutaibah-ibn-said",
+        "order": 2,
+        "roleTitle": "Direct Teacher",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "sufyan-al-thawri",
+        "order": 3,
+        "roleTitle": "Successor's Successor (Atba')",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "al-amash",
+        "order": 4,
+        "roleTitle": "Successor (Tabi'i)",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "abu-salih-al-samman",
+        "order": 5,
+        "roleTitle": "Successor (Tabi'i)",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "abu-hurairah",
+        "order": 6,
+        "roleTitle": "Companion (Sahabi)",
+        "transmissionFormulaAr": "عَنْ رَسُولِ اللَّهِ",
+        "transmissionFormulaEn": "From the Messenger of Allah"
+      },
+      {
+        "narratorId": "prophet-muhammad",
+        "order": 7,
+        "roleTitle": "Messenger of Allah ﷺ",
+        "transmissionFormulaAr": "قَالَ",
+        "transmissionFormulaEn": "Said"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "hadithNumber": 13,
+    "bookNumber": 2,
+    "bookNameEn": "Belief (Al-Iman)",
+    "bookNameAr": "كتاب الإيمان",
+    "chapterEn": "To love for one's brother what one loves for oneself",
+    "chapterAr": "باب مِنَ الإِيمَانِ أَنْ يُحِبَّ لِأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ",
+    "arabicSanad": "حَدَّثَنَا مُسَدَّدٌ قَالَ: حَدَّثَنَا يَحْيَى، عَنْ شُعْبَةَ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ ﷺ قَالَ:",
+    "arabicMatn": "«لاَ يُؤْمِنُ أَحَدُكُمْ حَتَّى يُحِبَّ لِأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ».",
+    "englishTranslation": "The Prophet ﷺ said: \"None of you truly believes until he wishes for his brother what he wishes for himself.\"",
+    "companion": "Anas ibn Malik",
+    "companionId": "anas-ibn-malik",
+    "primaryNarratorId": "musaddad-ibn-musarhad",
+    "theme": "Empathy & Altruism",
+    "keyLesson": "Authentic iman (faith) expands the human heart beyond selfishness into active altruism and empathy.",
+    "sunnahRef": "Sahih al-Bukhari 13",
+    "inBookRef": "Book 2, Hadith 6",
+    "uscMsaRef": "Vol. 1, Book 2, Hadith 13",
+    "sunnahUrl": "https://sunnah.com/bukhari:13",
+    "chain": [
+      {
+        "narratorId": "al-bukhari",
+        "order": 1,
+        "roleTitle": "Compiler & Author",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "musaddad-ibn-musarhad",
+        "order": 2,
+        "roleTitle": "Direct Teacher",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "shuba-ibn-al-hajjaj",
+        "order": 3,
+        "roleTitle": "Successor's Successor (Atba')",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "qatadah",
+        "order": 4,
+        "roleTitle": "Senior Successor (Kibar al-Tabi'in)",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "anas-ibn-malik",
+        "order": 5,
+        "roleTitle": "Companion (Sahabi)",
+        "transmissionFormulaAr": "عَنِ النَّبِيِّ",
+        "transmissionFormulaEn": "From the Prophet"
+      },
+      {
+        "narratorId": "prophet-muhammad",
+        "order": 6,
+        "roleTitle": "Messenger of Allah ﷺ",
+        "transmissionFormulaAr": "قَالَ",
+        "transmissionFormulaEn": "Said"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "hadithNumber": 24,
+    "bookNumber": 2,
+    "bookNameEn": "Belief (Al-Iman)",
+    "bookNameAr": "كتاب الإيمان",
+    "chapterEn": "Modesty and Bashfulness (Al-Haya') is part of Faith",
+    "chapterAr": "باب الحَيَاءُ مِنَ الإِيمَانِ",
+    "arabicSanad": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ قَالَ: أَخْبَرَنَا مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ، عَنْ أَبِيهِ:",
+    "arabicMatn": "أَنَّ رَسُولَ اللَّهِ ﷺ مَرَّ عَلَى رَجُلٍ مِنَ الأَنْصَارِ وَهُوَ يَعِظُ أَخَاهُ فِي الحَيَاءِ، فَقَالَ رَسُولُ اللَّهِ ﷺ: «دَعْهُ فَإِنَّ الحَيَاءَ مِنَ الإِيمَانِ».",
+    "englishTranslation": "Narrated `Abdullah bin `Umar: The Messenger of Allah ﷺ passed by a man of the Ansar who was admonishing his brother regarding modesty (urging him not to be overly shy). The Messenger of Allah ﷺ said: \"Leave him, for verily modesty (al-Haya') is an integral branch of faith.\"",
+    "companion": "'Abdullah ibn 'Umar",
+    "companionId": "abdullah-ibn-umar",
+    "primaryNarratorId": "abdullah-ibn-yusuf",
+    "theme": "Moral Modesty & Decency",
+    "keyLesson": "Spiritual shyness before God and respectful restraint before people act as an internal conscience deterring human souls from disgraceful deeds.",
+    "sunnahRef": "Sahih al-Bukhari 24",
+    "inBookRef": "Book 2, Hadith 17",
+    "uscMsaRef": "Vol. 1, Book 2, Hadith 24",
+    "sunnahUrl": "https://sunnah.com/bukhari:24",
+    "chain": [
+      {
+        "narratorId": "al-bukhari",
+        "order": 1,
+        "roleTitle": "Compiler & Author",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "abdullah-ibn-yusuf",
+        "order": 2,
+        "roleTitle": "Direct Teacher",
+        "transmissionFormulaAr": "أَخْبَرَنَا",
+        "transmissionFormulaEn": "Informed us"
+      },
+      {
+        "narratorId": "malik-ibn-anas",
+        "order": 3,
+        "roleTitle": "Successor's Successor (Atba')",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "ibn-shihab-al-zuhri",
+        "order": 4,
+        "roleTitle": "Successor (Tabi'i)",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "abdullah-ibn-umar",
+        "order": 5,
+        "roleTitle": "Companion (Sahabi)",
+        "transmissionFormulaAr": "عَنْ أَبِيهِ",
+        "transmissionFormulaEn": "From his father"
+      },
+      {
+        "narratorId": "prophet-muhammad",
+        "order": 6,
+        "roleTitle": "Messenger of Allah ﷺ",
+        "transmissionFormulaAr": "فَقَالَ",
+        "transmissionFormulaEn": "Said"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "hadithNumber": 69,
+    "bookNumber": 3,
+    "bookNameEn": "Knowledge (Al-Ilm)",
+    "bookNameAr": "كتاب العلم",
+    "chapterEn": "Facilitating matters and giving glad tidings when teaching",
+    "chapterAr": "باب مَا كَانَ النَّبِيُّ ﷺ يَتَخَوَّلُهُمْ بِالمَوْعِظَةِ وَالعِلْمِ كَيْ لاَ يَنْفِرُوا",
+    "arabicSanad": "حَدَّثَنَا مُحَمَّدُ بْنُ المُثَنَّى قَالَ: حَدَّثَنَا يَحْيَى، عَنْ شُعْبَةَ، عَنْ قَتَادَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ ﷺ قَالَ:",
+    "arabicMatn": "«يَسِّرُوا وَلاَ تُعَسِّرُوا، وَبَشِّرُوا وَلاَ تُنَفِّرُوا».",
+    "englishTranslation": "The Prophet ﷺ said: \"Facilitate things to people (make them easy), and do not make them difficult; give glad tidings, and do not cause aversion (do not repel people).\"",
+    "companion": "Anas ibn Malik",
+    "companionId": "anas-ibn-malik",
+    "primaryNarratorId": "muhammad-ibn-al-muthanna",
+    "theme": "Pedagogy & Leniency",
+    "keyLesson": "The golden rule of education and interpersonal communication: lead with optimism and ease rather than daunting severity.",
+    "sunnahRef": "Sahih al-Bukhari 69",
+    "inBookRef": "Book 3, Hadith 11",
+    "uscMsaRef": "Vol. 1, Book 3, Hadith 69",
+    "sunnahUrl": "https://sunnah.com/bukhari:69",
+    "chain": [
+      {
+        "narratorId": "al-bukhari",
+        "order": 1,
+        "roleTitle": "Compiler & Author",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "muhammad-ibn-al-muthanna",
+        "order": 2,
+        "roleTitle": "Direct Teacher",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "shuba-ibn-al-hajjaj",
+        "order": 3,
+        "roleTitle": "Successor's Successor (Atba')",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "qatadah",
+        "order": 4,
+        "roleTitle": "Senior Successor (Kibar al-Tabi'in)",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "anas-ibn-malik",
+        "order": 5,
+        "roleTitle": "Companion (Sahabi)",
+        "transmissionFormulaAr": "عَنِ النَّبِيِّ",
+        "transmissionFormulaEn": "From the Prophet"
+      },
+      {
+        "narratorId": "prophet-muhammad",
+        "order": 6,
+        "roleTitle": "Messenger of Allah ﷺ",
+        "transmissionFormulaAr": "قَالَ",
+        "transmissionFormulaEn": "Said"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "hadithNumber": 71,
+    "bookNumber": 3,
+    "bookNameEn": "Knowledge (Al-Ilm)",
+    "bookNameAr": "كتاب العلم",
+    "chapterEn": "To whomsoever Allah wills good, He grants deep comprehension in religion",
+    "chapterAr": "باب مَنْ يُرِدِ اللَّهُ بِهِ خَيْرًا يُفَقِّهْهُ فِي الدِّينِ",
+    "arabicSanad": "حَدَّثَنَا عَلِيُّ بْنُ المَدِينِيِّ قَالَ: حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدِ بْنِ المُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ ﷺ قَالَ:",
+    "arabicMatn": "«مَنْ يُرِدِ اللَّهُ بِهِ خَيْرًا يُفَقِّهْهُ فِي الدِّينِ، وَإِنَّمَا أَنَا قَاسِمٌ وَاللَّهُ يُعْطِي، وَلَنْ تَزَالَ هَذِهِ الأُمَّةُ قَائِمَةً عَلَى أَمْرِ اللَّهِ لاَ يَضُرُّهُمْ مَنْ خَالَفَهُمْ حَتَّى يَأْتِيَ أَمْرُ اللَّهِ».",
+    "englishTranslation": "The Prophet ﷺ said: \"Whomsoever Allah intends to show great goodness to, He grants him deep legal understanding (fiqh) of the religion. And I am only a distributor while Allah is the Giver; and there will continue to remain a group of this nation steadfast upon the command of Allah, unhampered by those who oppose them, until the command of Allah arrives.\"",
+    "companion": "Abu Hurairah",
+    "companionId": "abu-hurairah",
+    "primaryNarratorId": "ali-ibn-al-madini",
+    "theme": "Sacred Knowledge & Understanding",
+    "keyLesson": "True divine favor is marked not by material excess, but by clarity and depth in comprehending revelation.",
+    "sunnahRef": "Sahih al-Bukhari 71",
+    "inBookRef": "Book 3, Hadith 13",
+    "uscMsaRef": "Vol. 1, Book 3, Hadith 71",
+    "sunnahUrl": "https://sunnah.com/bukhari:71",
+    "chain": [
+      {
+        "narratorId": "al-bukhari",
+        "order": 1,
+        "roleTitle": "Compiler & Author",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "ali-ibn-al-madini",
+        "order": 2,
+        "roleTitle": "Direct Teacher & Mentor",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "sufyan-ibn-uyaynah",
+        "order": 3,
+        "roleTitle": "Successor's Successor (Atba')",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "ibn-shihab-al-zuhri",
+        "order": 4,
+        "roleTitle": "Junior Successor (Tabi'i)",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "said-ibn-al-musayyib",
+        "order": 5,
+        "roleTitle": "Senior Successor (Kibar al-Tabi'in)",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "abu-hurairah",
+        "order": 6,
+        "roleTitle": "Companion (Sahabi)",
+        "transmissionFormulaAr": "عَنِ النَّبِيِّ",
+        "transmissionFormulaEn": "From the Prophet"
+      },
+      {
+        "narratorId": "prophet-muhammad",
+        "order": 7,
+        "roleTitle": "Messenger of Allah ﷺ",
+        "transmissionFormulaAr": "قَالَ",
+        "transmissionFormulaEn": "Said"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "hadithNumber": 100,
+    "bookNumber": 3,
+    "bookNameEn": "Knowledge (Al-Ilm)",
+    "bookNameAr": "كتاب العلم",
+    "chapterEn": "How Knowledge will be Taken Away with the Demise of Scholars",
+    "chapterAr": "باب كَيْفَ يُقْبَضُ العِلْمُ",
+    "arabicSanad": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ أَبِي أُوَيْسٍ قَالَ: حَدَّثَنِي مَالِكٌ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ العَاصِ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ ﷺ يَقُولُ:",
+    "arabicMatn": "«إِنَّ اللَّهَ لاَ يَقْبِضُ العِلْمَ انْتِزَاعًا يَنْتَزِعُهُ مِنَ العِبَادِ، وَلَكِنْ يَقْبِضُ العِلْمَ بِقَبْضِ العُلَمَاءِ، حَتَّى إِذَا لَمْ يُبْقِ عَالِمًا اتَّخَذَ النَّاسُ رُءُوسًا جُهَّالًا، فَسُئِلُوا فَأَفْتَوْا بِغَيْرِ عِلْمٍ، فَضَلُّوا وَأَضَلُّوا».",
+    "englishTranslation": "Narrated `Abdullah bin `Amr bin Al-`As: I heard the Messenger of Allah ﷺ say: \"Allah does not take away knowledge by taking it away from the hearts of the people, but takes it away by the death of the religious scholars till when none of the scholars remains, people take as their leaders ignorant persons who, when consulted, deliver verdicts without knowledge. So they go astray and lead people astray.\"",
+    "companion": "'Abdullah ibn 'Umar",
+    "companionId": "abdullah-ibn-umar",
+    "primaryNarratorId": "abdullah-ibn-yusuf",
+    "theme": "Preserving Scholars & Sacred Erudition",
+    "keyLesson": "The death of a true righteous scholar is an irreplaceable breach in the fortress of knowledge, emphasizing our duty to learn from and honor authentic mentors.",
+    "sunnahRef": "Sahih al-Bukhari 100",
+    "inBookRef": "Book 3, Hadith 42",
+    "uscMsaRef": "Vol. 1, Book 3, Hadith 100",
+    "sunnahUrl": "https://sunnah.com/bukhari:100",
+    "chain": [
+      {
+        "narratorId": "al-bukhari",
+        "order": 1,
+        "roleTitle": "Compiler & Author",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "abdullah-ibn-yusuf",
+        "order": 2,
+        "roleTitle": "Direct Teacher",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "malik-ibn-anas",
+        "order": 3,
+        "roleTitle": "Successor's Successor (Atba')",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "hisham-ibn-urwah",
+        "order": 4,
+        "roleTitle": "Successor (Tabi'i)",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "urwah-ibn-al-zubayr",
+        "order": 5,
+        "roleTitle": "Senior Successor (Kibar al-Tabi'in)",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "prophet-muhammad",
+        "order": 6,
+        "roleTitle": "Messenger of Allah ﷺ",
+        "transmissionFormulaAr": "يَقُولُ",
+        "transmissionFormulaEn": "Saying"
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "hadithNumber": 135,
+    "bookNumber": 4,
+    "bookNameEn": "Ablution (Wudu')",
+    "bookNameAr": "كتاب الوضوء",
+    "chapterEn": "No prayer is accepted without purification (ablution)",
+    "chapterAr": "باب لاَ تُقْبَلُ صَلاَةٌ بِغَيْرِ طُهُورٍ",
+    "arabicSanad": "حَدَّثَنَا مُسَدَّدٌ قَالَ: حَدَّثَنَا يَحْيَى، عَنْ سُفْيَانَ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ:",
+    "arabicMatn": "«لاَ تُقْبَلُ صَلاَةُ مَنْ أَحْدَثَ حَتَّى يَتَوَضَّأَ».",
+    "englishTranslation": "The Messenger of Allah ﷺ said: \"The prayer of a person who has incurred ritual impurity is not accepted until he performs ablution (wudu).\"",
+    "companion": "Abu Hurairah",
+    "companionId": "abu-hurairah",
+    "primaryNarratorId": "musaddad-ibn-musarhad",
+    "theme": "Physical & Ritual Purity",
+    "keyLesson": "Spiritual elevation requires somatic cleanliness; purity of body and heart is the non-negotiable gateway before standing in communion with the Creator.",
+    "sunnahRef": "Sahih al-Bukhari 135",
+    "inBookRef": "Book 4, Hadith 2",
+    "uscMsaRef": "Vol. 1, Book 4, Hadith 137",
+    "sunnahUrl": "https://sunnah.com/bukhari:135",
+    "chain": [
+      {
+        "narratorId": "al-bukhari",
+        "order": 1,
+        "roleTitle": "Compiler & Author",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "musaddad-ibn-musarhad",
+        "order": 2,
+        "roleTitle": "Direct Teacher",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "sufyan-al-thawri",
+        "order": 3,
+        "roleTitle": "Successor's Successor (Atba')",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "abu-salih-al-samman",
+        "order": 4,
+        "roleTitle": "Successor (Tabi'i)",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "abu-hurairah",
+        "order": 5,
+        "roleTitle": "Companion (Sahabi)",
+        "transmissionFormulaAr": "قَالَ: قَالَ رَسُولُ اللَّهِ",
+        "transmissionFormulaEn": "Said: The Messenger of Allah said"
+      },
+      {
+        "narratorId": "prophet-muhammad",
+        "order": 6,
+        "roleTitle": "Messenger of Allah ﷺ",
+        "transmissionFormulaAr": "قَالَ",
+        "transmissionFormulaEn": "Said"
+      }
+    ]
+  },
+  {
+    "id": 378,
+    "hadithNumber": 631,
+    "bookNumber": 8,
+    "bookNameEn": "Prayers (Salat)",
+    "bookNameAr": "كتاب الصلاة",
+    "chapterEn": "Pray as you have seen me pray",
+    "chapterAr": "باب وَصَلُّوا كَمَا رَأَيْتُمُونِي أُصَلِّي",
+    "arabicSanad": "حَدَّثَنَا مُحَمَّدُ بْنُ المُثَنَّى قَالَ: حَدَّثَنَا عَبْدُ الوَهَّابِ، قَالَ: حَدَّثَنَا أَيُّوبُ، عَنْ أَبِي قِلاَبَةَ، عَنْ مَالِكِ بْنِ الحُوَيْرِثِ قَالَ:",
+    "arabicMatn": "أَتَيْنَا إِلَى النَّبِيِّ ﷺ وَنَحْنُ شَبَبَةٌ مُتَقَارِبُونَ، فَأَقَمْنَا عِنْدَهُ عِشْرِينَ يَوْمًا وَلَيْلَةً، وَكَانَ رَسُولُ اللَّهِ ﷺ رَحِيمًا رَفِيقًا، فَلَمَّا ظَنَّ أَنَّا اشْتَهَيْنَا أَهْلَنَا سَأَلَنَا عَمَّنْ تَرَكْنَا بَعْدَنَا، فَأَخْبَرْنَاهُ، قَالَ: «ارْجِعُوا إِلَى أَهْلِيكُمْ فَأَقِيمُوا فِيهِمْ، وَعَلِّمُوهُمْ وَمُرُوهُمْ، وَصَلُّوا كَمَا رَأَيْتُمُونِي أُصَلِّي، فَإِذَا حَضَرَتِ الصَّلاَةُ فَلْيُؤَذِّنْ لَكُمْ أَحَدُكُمْ، وَلْيَؤُمَّكُمْ أَكْبَرُكُمْ».",
+    "englishTranslation": "Narrated Malik bin Al-Huwairith: We came to the Prophet ﷺ while we were young men of nearly equal age, and we stayed with him for twenty days and nights. The Messenger of Allah ﷺ was extraordinarily merciful and gentle. When he sensed that we longed for our families, he asked about those we had left behind, and we informed him. He then said: \"Go back to your families, stay with them, teach them, instruct them, and pray as you have seen me pray. When the time for prayer arrives, let one of you pronounce the Adhan and let the oldest among you lead the prayer.\"",
+    "companion": "Anas ibn Malik",
+    "companionId": "anas-ibn-malik",
+    "primaryNarratorId": "muhammad-ibn-al-muthanna",
+    "theme": "Prophetic Conduct of Prayer",
+    "keyLesson": "Shows the sublime tenderness of the Prophet ﷺ towards young seekers, and provides the golden universal decree of worship: \"Pray as you have seen me pray.\"",
+    "sunnahRef": "Sahih al-Bukhari 631",
+    "inBookRef": "Book 10, Hadith 28",
+    "uscMsaRef": "Vol. 1, Book 11, Hadith 604",
+    "sunnahUrl": "https://sunnah.com/bukhari:631",
+    "chain": [
+      {
+        "narratorId": "al-bukhari",
+        "order": 1,
+        "roleTitle": "Compiler & Author",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "muhammad-ibn-al-muthanna",
+        "order": 2,
+        "roleTitle": "Direct Teacher",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "shuba-ibn-al-hajjaj",
+        "order": 3,
+        "roleTitle": "Successor's Successor (Atba')",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "anas-ibn-malik",
+        "order": 4,
+        "roleTitle": "Companion (Sahabi)",
+        "transmissionFormulaAr": "قَالَ",
+        "transmissionFormulaEn": "Narrated"
+      },
+      {
+        "narratorId": "prophet-muhammad",
+        "order": 5,
+        "roleTitle": "Messenger of Allah ﷺ",
+        "transmissionFormulaAr": "قَالَ",
+        "transmissionFormulaEn": "Said"
+      }
+    ]
+  },
+  {
+    "id": 528,
+    "hadithNumber": 528,
+    "bookNumber": 9,
+    "bookNameEn": "Times of the Prayers",
+    "bookNameAr": "كتاب مواقيت الصلاة",
+    "chapterEn": "The parable of the five prayers cleansing the soul like a flowing river",
+    "chapterAr": "باب الصَّلَوَاتُ الخَمْسُ كَفَّارَةٌ",
+    "arabicSanad": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ قَالَ: حَدَّثَنَا لَيْثٌ، عَنِ ابْنِ الهَادِ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، أَنَّهُ سَمِعَ رَسُولَ اللَّهِ ﷺ يَقُولُ:",
+    "arabicMatn": "«أَرَأَيْتُمْ لَوْ أَنَّ نَهَرًا بِبَابِ أَحَدِكُمْ يَغْتَسِلُ مِنْهُ كُلَّ يَوْمٍ خَمْسَ مَرَّاتٍ، هَلْ يَبْقَى مِنْ دَرَنِهِ شَيْءٌ؟» قَالُوا: لاَ يَبْقَى مِنْ دَرَنِهِ شَيْءٌ. قَالَ: «فَذَلِكَ مَثَلُ الصَّلَوَاتِ الخَمْسِ، يَمْحُو اللَّهُ بِهِنَّ الخَطَايَا».",
+    "englishTranslation": "Abu Hurairah reported that he heard the Messenger of Allah ﷺ say: \"Consider this: if there were a river at the doorstep of one of you in which he bathed five times a day, would any dirt remain upon him?\" The Companions replied: \"No dirt would remain upon him at all.\" He ﷺ said: \"That is the likeness of the five prayers; by means of them Allah obliterates sins.\"",
+    "companion": "Abu Hurairah",
+    "companionId": "abu-hurairah",
+    "primaryNarratorId": "qutaibah-ibn-said",
+    "theme": "Virtues of the Five Daily Prayers",
+    "keyLesson": "The rhythmic cycles of daily worship function as perpetual spiritual ablutions, washing away minor trespasses, moral fatigue, and spiritual dust.",
+    "sunnahRef": "Sahih al-Bukhari 528",
+    "inBookRef": "Book 9, Hadith 7",
+    "uscMsaRef": "Vol. 1, Book 10, Hadith 506",
+    "sunnahUrl": "https://sunnah.com/bukhari:528",
+    "chain": [
+      {
+        "narratorId": "al-bukhari",
+        "order": 1,
+        "roleTitle": "Compiler & Author",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "qutaibah-ibn-said",
+        "order": 2,
+        "roleTitle": "Direct Teacher",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "malik-ibn-anas",
+        "order": 3,
+        "roleTitle": "Successor's Successor (Atba')",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "abu-salih-al-samman",
+        "order": 4,
+        "roleTitle": "Successor (Tabi'i)",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "abu-hurairah",
+        "order": 5,
+        "roleTitle": "Companion (Sahabi)",
+        "transmissionFormulaAr": "سَمِعَ رَسُولَ اللَّهِ",
+        "transmissionFormulaEn": "Heard the Messenger of Allah"
+      },
+      {
+        "narratorId": "prophet-muhammad",
+        "order": 6,
+        "roleTitle": "Messenger of Allah ﷺ",
+        "transmissionFormulaAr": "يَقُولُ",
+        "transmissionFormulaEn": "Saying"
+      }
+    ]
+  },
+  {
+    "id": 877,
+    "hadithNumber": 877,
+    "bookNumber": 11,
+    "bookNameEn": "Friday Prayer (Jumu'ah)",
+    "bookNameAr": "كتاب الجمعة",
+    "chapterEn": "The Obligation of Ghusl on Friday",
+    "chapterAr": "باب فَرْضِ الجُمُعَةِ وَالغُسْلِ يَوْمَ الجُمُعَةِ",
+    "arabicSanad": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ قَالَ: أَخْبَرَنَا مَالِكٌ، عَنْ صَفْوَانَ بْنِ سُلَيْمٍ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ أَبِي سَعِيدٍ الخُدْرِيِّ رَضِيَ اللَّهُ عَنْهُ، أَنَّ رَسُولَ اللَّهِ ﷺ قَالَ:",
+    "arabicMatn": "«غُسْلُ يَوْمِ الجُمُعَةِ وَاجِبٌ عَلَى كُلِّ مُحْتَلِمٍ».",
+    "englishTranslation": "Narrated Abu Sa`id Al-Khudri: The Messenger of Allah ﷺ said: \"The taking of a bath on Friday is compulsory upon every person who has reached puberty.\"",
+    "companion": "Abu Sa'id al-Khudri",
+    "companionId": "abu-said-al-khudri",
+    "primaryNarratorId": "abdullah-ibn-yusuf",
+    "theme": "Friday Sanctity & Cleanliness",
+    "keyLesson": "Friday represents the weekly spiritual feast of Muslims; congregants are urged to enter the sacred assembly fragrant, bathed, and refreshed.",
+    "sunnahRef": "Sahih al-Bukhari 877",
+    "inBookRef": "Book 11, Hadith 2",
+    "uscMsaRef": "Vol. 2, Book 13, Hadith 4",
+    "sunnahUrl": "https://sunnah.com/bukhari:877",
+    "chain": [
+      {
+        "narratorId": "al-bukhari",
+        "order": 1,
+        "roleTitle": "Compiler & Author",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "abdullah-ibn-yusuf",
+        "order": 2,
+        "roleTitle": "Direct Teacher",
+        "transmissionFormulaAr": "أَخْبَرَنَا",
+        "transmissionFormulaEn": "Informed us"
+      },
+      {
+        "narratorId": "malik-ibn-anas",
+        "order": 3,
+        "roleTitle": "Successor's Successor (Atba')",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "abu-said-al-khudri",
+        "order": 4,
+        "roleTitle": "Companion (Sahabi)",
+        "transmissionFormulaAr": "أَنَّ رَسُولَ اللَّهِ",
+        "transmissionFormulaEn": "That the Messenger of Allah"
+      },
+      {
+        "narratorId": "prophet-muhammad",
+        "order": 5,
+        "roleTitle": "Messenger of Allah ﷺ",
+        "transmissionFormulaAr": "قَالَ",
+        "transmissionFormulaEn": "Said"
+      }
+    ]
+  },
+  {
+    "id": 1395,
+    "hadithNumber": 1405,
+    "bookNumber": 24,
+    "bookNameEn": "Obligatory Charity (Zakat)",
+    "bookNameAr": "كتاب الزكاة",
+    "chapterEn": "Charity given from halal earnings does not decrease wealth",
+    "chapterAr": "باب الصَّدَقَةِ مِنْ كَسْبٍ طَيِّبٍ",
+    "arabicSanad": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُنِيرٍ قَالَ: حَدَّثَنَا أَبُو النَّضْرِ، قَالَ: حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ عَبْدِ اللَّهِ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، أَنَّ رَسُولَ اللَّهِ ﷺ قَالَ:",
+    "arabicMatn": "«مَا تَصَدَّقَ أَحَدٌ بِصَدَقَةٍ مِنْ طَيِّبٍ - وَلاَ يَقْبَلُ اللَّهُ إِلَّا الطَّيِّبَ - إِلَّا كَانَ الرَّحْمَنُ يَأْخُذُهَا بِيَمِينِهِ، فَيُرَبِّيهَا كَمَا يُرَبِّي أَحَدُكُمْ فَلُوَّهُ، حَتَّى تَكُونَ مِثْلَ الجَبَلِ».",
+    "englishTranslation": "Narrated Abu Hurairah: The Messenger of Allah ﷺ said: \"No one gives charity from pure wholesome earning — and Allah accepts only what is pure and wholesome — except that the Most Merciful takes it in His right Hand, and nurtures it as one of you nurtures his young foal, until it expands to become like a mighty mountain.\"",
+    "companion": "Abu Hurairah",
+    "companionId": "abu-hurairah",
+    "primaryNarratorId": "qutaibah-ibn-said",
+    "theme": "Virtues of Sincere Charity",
+    "keyLesson": "Even a single date given from wholesome lawful earnings is multiplied infinitely by divine grace, becoming monumental on the eternal scales.",
+    "sunnahRef": "Sahih al-Bukhari 1410",
+    "inBookRef": "Book 24, Hadith 15",
+    "uscMsaRef": "Vol. 2, Book 24, Hadith 491",
+    "sunnahUrl": "https://sunnah.com/bukhari:1410",
+    "chain": [
+      {
+        "narratorId": "al-bukhari",
+        "order": 1,
+        "roleTitle": "Compiler & Author",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "qutaibah-ibn-said",
+        "order": 2,
+        "roleTitle": "Direct Teacher",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "malik-ibn-anas",
+        "order": 3,
+        "roleTitle": "Successor's Successor (Atba')",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "abu-hurairah",
+        "order": 4,
+        "roleTitle": "Companion (Sahabi)",
+        "transmissionFormulaAr": "أَنَّ رَسُولَ اللَّهِ",
+        "transmissionFormulaEn": "That the Messenger of Allah"
+      },
+      {
+        "narratorId": "prophet-muhammad",
+        "order": 5,
+        "roleTitle": "Messenger of Allah ﷺ",
+        "transmissionFormulaAr": "قَالَ",
+        "transmissionFormulaEn": "Said"
+      }
+    ]
+  },
+  {
+    "id": 1513,
+    "hadithNumber": 1521,
+    "bookNumber": 26,
+    "bookNameEn": "Pilgrimage (Hajj)",
+    "bookNameAr": "كتاب الحج",
+    "chapterEn": "The Virtues of Hajj Mabroor (Accepted Pilgrimage)",
+    "chapterAr": "باب فَضْلِ الحَجِّ المَبْرُورِ",
+    "arabicSanad": "حَدَّثَنَا عَبْدُ العَزِيزِ بْنُ عَبْدِ اللَّهِ قَالَ: حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، قَالَ: سَمِعْتُ النَّبِيَّ ﷺ يَقُولُ:",
+    "arabicMatn": "«مَنْ حَجَّ لِلَّهِ فَلَمْ يَرْفُثْ، وَلَمْ يَفْسُقْ، رَجَعَ كَيَوْمِ وَلَدَتْهُ أُمُّهُ».",
+    "englishTranslation": "Narrated Abu Hurairah: I heard the Prophet ﷺ say: \"Whoever performs Hajj for Allah's sake and does not have sexual relations with his wife, and does not commit sin or obscenity, will return (after Hajj, free from all sins) like the day his mother gave birth to him.\"",
+    "companion": "Abu Hurairah",
+    "companionId": "abu-hurairah",
+    "primaryNarratorId": "ali-ibn-al-madini",
+    "theme": "Spiritual Rebirth through Hajj",
+    "keyLesson": "An accepted pilgrimage performed with immaculate spiritual presence wipes clean a lifetime of transgression, offering an absolute spiritual restart.",
+    "sunnahRef": "Sahih al-Bukhari 1521",
+    "inBookRef": "Book 26, Hadith 9",
+    "uscMsaRef": "Vol. 2, Book 26, Hadith 596",
+    "sunnahUrl": "https://sunnah.com/bukhari:1521",
+    "chain": [
+      {
+        "narratorId": "al-bukhari",
+        "order": 1,
+        "roleTitle": "Compiler & Author",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "ali-ibn-al-madini",
+        "order": 2,
+        "roleTitle": "Direct Teacher",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "sufyan-ibn-uyaynah",
+        "order": 3,
+        "roleTitle": "Successor's Successor (Atba')",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "ibn-shihab-al-zuhri",
+        "order": 4,
+        "roleTitle": "Successor (Tabi'i)",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "abu-hurairah",
+        "order": 5,
+        "roleTitle": "Companion (Sahabi)",
+        "transmissionFormulaAr": "سَمِعْتُ النَّبِيَّ",
+        "transmissionFormulaEn": "I heard the Prophet"
+      },
+      {
+        "narratorId": "prophet-muhammad",
+        "order": 6,
+        "roleTitle": "Messenger of Allah ﷺ",
+        "transmissionFormulaAr": "يَقُولُ",
+        "transmissionFormulaEn": "Saying"
+      }
+    ]
+  },
+  {
+    "id": 1894,
+    "hadithNumber": 1894,
+    "bookNumber": 31,
+    "bookNameEn": "Fasting (Al-Sawm)",
+    "bookNameAr": "كتاب الصوم",
+    "chapterEn": "Whoever observes fasts during the month of Ramadan with faith and expecting reward",
+    "chapterAr": "باب مَنْ صَامَ رَمَضَانَ إِيمَانًا وَاحْتِسَابًا وَنِيَّةً",
+    "arabicSanad": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ قَالَ: حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ ﷺ قَالَ:",
+    "arabicMatn": "«مَنْ صَامَ رَمَضَانَ إِيمَانًا وَاحْتِسَابًا، غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ».",
+    "englishTranslation": "The Prophet ﷺ said: \"Whoever observes fasts during the month of Ramadan out of sincere faith and in the hope of earning Allah's reward, all his previous sins will be forgiven.\"",
+    "companion": "Abu Hurairah",
+    "companionId": "abu-hurairah",
+    "primaryNarratorId": "ali-ibn-al-madini",
+    "theme": "Sincerity in Ramadan Fasting",
+    "keyLesson": "Fasting is not merely physical starvation; its complete spiritual realization depends upon heartfelt conviction (Iman) and seeking divine delight (Ihtisab).",
+    "sunnahRef": "Sahih al-Bukhari 1901",
+    "inBookRef": "Book 31, Hadith 11",
+    "uscMsaRef": "Vol. 3, Book 31, Hadith 125",
+    "sunnahUrl": "https://sunnah.com/bukhari:1901",
+    "chain": [
+      {
+        "narratorId": "al-bukhari",
+        "order": 1,
+        "roleTitle": "Compiler & Author",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "ali-ibn-al-madini",
+        "order": 2,
+        "roleTitle": "Direct Teacher",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "sufyan-ibn-uyaynah",
+        "order": 3,
+        "roleTitle": "Successor's Successor (Atba')",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "ibn-shihab-al-zuhri",
+        "order": 4,
+        "roleTitle": "Successor (Tabi'i)",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "abu-hurairah",
+        "order": 5,
+        "roleTitle": "Companion (Sahabi)",
+        "transmissionFormulaAr": "عَنِ النَّبِيِّ",
+        "transmissionFormulaEn": "From the Prophet"
+      },
+      {
+        "narratorId": "prophet-muhammad",
+        "order": 6,
+        "roleTitle": "Messenger of Allah ﷺ",
+        "transmissionFormulaAr": "قَالَ",
+        "transmissionFormulaEn": "Said"
+      }
+    ]
+  },
+  {
+    "id": 2079,
+    "hadithNumber": 2079,
+    "bookNumber": 34,
+    "bookNameEn": "Sales and Trade (Al-Buyu')",
+    "bookNameAr": "كتاب البيوع",
+    "chapterEn": "Blessings in clear and honest disclosure in commercial trade",
+    "chapterAr": "باب البَيِّعَانِ بِالخِيَارِ مَا لَمْ يَتَفَرَّقَا",
+    "arabicSanad": "حَدَّثَنَا مُسَدَّدٌ قَالَ: حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ أَيُّوبَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا، عَنِ النَّبِيِّ ﷺ قَالَ:",
+    "arabicMatn": "«البَيِّعَانِ كُلُّ وَاحِدٍ مِنْهُمَا بِالخِيَارِ عَلَى صَاحِبِهِ مَا لَمْ يَتَفَرَّقَا، إِلَّا بَيْعَ الخِيَارِ، فَإِنْ صَدَقَا وَبَيَّنَا بُورِكَ لَهُمَا فِي بَيْعِهِمَا، وَإِنْ كَذَبَا وَكَتَمَا مُحِقَتْ بَرَكَةُ بَيْعِهِمَا».",
+    "englishTranslation": "The Prophet ﷺ said: \"The buyer and the seller have the option of canceling or confirming the bargain until they separate. If they both speak the truth and make every defect clear, their transaction will be blessed; but if they lie and conceal defects, the blessing of their transaction will be obliterated.\"",
+    "companion": "'Abdullah ibn 'Umar",
+    "companionId": "abdullah-ibn-umar",
+    "primaryNarratorId": "musaddad-ibn-musarhad",
+    "theme": "Ethical Commerce & Integrity",
+    "keyLesson": "Commercial success in Islamic ethics is fundamentally bound to radical transparency, honesty in disclosing product flaws, and abstaining from deceitful marketing.",
+    "sunnahRef": "Sahih al-Bukhari 2079",
+    "inBookRef": "Book 34, Hadith 32",
+    "uscMsaRef": "Vol. 3, Book 34, Hadith 293",
+    "sunnahUrl": "https://sunnah.com/bukhari:2079",
+    "chain": [
+      {
+        "narratorId": "al-bukhari",
+        "order": 1,
+        "roleTitle": "Compiler & Author",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "musaddad-ibn-musarhad",
+        "order": 2,
+        "roleTitle": "Direct Teacher",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "malik-ibn-anas",
+        "order": 3,
+        "roleTitle": "Successor's Successor (Atba')",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "nafi-mawla-ibn-umar",
+        "order": 4,
+        "roleTitle": "Successor (Tabi'i)",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "abdullah-ibn-umar",
+        "order": 5,
+        "roleTitle": "Companion (Sahabi)",
+        "transmissionFormulaAr": "عَنِ النَّبِيِّ",
+        "transmissionFormulaEn": "From the Prophet"
+      },
+      {
+        "narratorId": "prophet-muhammad",
+        "order": 6,
+        "roleTitle": "Messenger of Allah ﷺ",
+        "transmissionFormulaAr": "قَالَ",
+        "transmissionFormulaEn": "Said"
+      }
+    ]
+  },
+  {
+    "id": 2082,
+    "hadithNumber": 2076,
+    "bookNumber": 34,
+    "bookNameEn": "Sales and Trade (Al-Buyu')",
+    "bookNameAr": "كتاب البيوع",
+    "chapterEn": "Mercy on the Person who is Lenient in Selling and Buying",
+    "chapterAr": "باب السُّهُولَةِ وَالسَّمَاحَةِ فِي الشِّرَاءِ وَالبَيْعِ",
+    "arabicSanad": "حَدَّثَنَا عَلِيُّ بْنُ عَيَّاشٍ قَالَ: حَدَّثَنَا أَبُو غَسَّانَ، قَالَ: حَدَّثَنِي مُحَمَّدُ بْنُ المُنْكَدِرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا، أَنَّ رَسُولَ اللَّهِ ﷺ قَالَ:",
+    "arabicMatn": "«رَحِمَ اللَّهُ رَجُلًا سَمْحًا إِذَا بَاعَ، وَإِذَا اشْتَرَى، وَإِذَا اقْتَضَى».",
+    "englishTranslation": "Narrated Jabir bin `Abdullah: The Messenger of Allah ﷺ said: \"May Allah have mercy on a person who is lenient and easygoing when he sells, when he buys, and when he demands his rights/debts.\"",
+    "companion": "Anas ibn Malik",
+    "companionId": "anas-ibn-malik",
+    "primaryNarratorId": "qutaibah-ibn-said",
+    "theme": "Gentleness in Commerce",
+    "keyLesson": "Commercial interactions are fertile grounds for cultivating mercy; avoiding hardball greed invites divine compassion upon one's livelihood.",
+    "sunnahRef": "Sahih al-Bukhari 2076",
+    "inBookRef": "Book 34, Hadith 29",
+    "uscMsaRef": "Vol. 3, Book 34, Hadith 290",
+    "sunnahUrl": "https://sunnah.com/bukhari:2076",
+    "chain": [
+      {
+        "narratorId": "al-bukhari",
+        "order": 1,
+        "roleTitle": "Compiler & Author",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "qutaibah-ibn-said",
+        "order": 2,
+        "roleTitle": "Direct Teacher",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "sufyan-al-thawri",
+        "order": 3,
+        "roleTitle": "Successor's Successor (Atba')",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "anas-ibn-malik",
+        "order": 4,
+        "roleTitle": "Companion (Sahabi)",
+        "transmissionFormulaAr": "عَنْ رَسُولِ اللَّهِ",
+        "transmissionFormulaEn": "From the Messenger of Allah"
+      },
+      {
+        "narratorId": "prophet-muhammad",
+        "order": 5,
+        "roleTitle": "Messenger of Allah ﷺ",
+        "transmissionFormulaAr": "قَالَ",
+        "transmissionFormulaEn": "Said"
+      }
+    ]
+  },
+  {
+    "id": 2442,
+    "hadithNumber": 2444,
+    "bookNumber": 46,
+    "bookNameEn": "Oppressions & Usurpations (Madhalim)",
+    "bookNameAr": "كتاب المظالم والغصب",
+    "chapterEn": "Help your brother whether he is an oppressor or is being oppressed",
+    "chapterAr": "باب انْصُرْ أَخَاكَ ظَالِمًا أَوْ مَظْلُومًا",
+    "arabicSanad": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ قَالَ: حَدَّثَنَا هُشَيْمٌ، أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ أَبِي بَكْرِ بْنِ أَنَسٍ، عَنْ أَنَسٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ:",
+    "arabicMatn": "«انْصُرْ أَخَاكَ ظَالِمًا أَوْ مَظْلُومًا». فَقَالَ رَجُلٌ: يَا رَسُولَ اللَّهِ، أَنْصُرُهُ إِذَا كَانَ مَظْلُومًا، أَفَرَأَيْتَ إِذَا كَانَ ظَالِمًا كَيْفَ أَنْصُرُهُ؟ قَالَ: «تَحْجُزُهُ - أَوْ تَمْنَعُهُ - مِنَ الظُّلْمِ، فَإِنَّ ذَلِكَ نَصْرُهُ».",
+    "englishTranslation": "Narrated Anas: The Messenger of Allah ﷺ said: \"Help your brother, whether he is an oppressor or he is an oppressed one.\" People asked: \"O Messenger of Allah! It is all right to help him if he is oppressed, but how should we help him if he is an oppressor?\" The Prophet ﷺ said: \"By preventing him from oppressing others; for verily that is helping him.\"",
+    "companion": "Anas ibn Malik",
+    "companionId": "anas-ibn-malik",
+    "primaryNarratorId": "musaddad-ibn-musarhad",
+    "theme": "Preventing Injustice & Moral Courage",
+    "keyLesson": "The prophetic ethos redefines loyalty: helping a loved one who acts unjustly means intervening with courage to stop their tyranny, saving them from divine accountability.",
+    "sunnahRef": "Sahih al-Bukhari 2444",
+    "inBookRef": "Book 46, Hadith 5",
+    "uscMsaRef": "Vol. 3, Book 43, Hadith 624",
+    "sunnahUrl": "https://sunnah.com/bukhari:2444",
+    "chain": [
+      {
+        "narratorId": "al-bukhari",
+        "order": 1,
+        "roleTitle": "Compiler & Author",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "musaddad-ibn-musarhad",
+        "order": 2,
+        "roleTitle": "Direct Teacher",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "shuba-ibn-al-hajjaj",
+        "order": 3,
+        "roleTitle": "Successor's Successor (Atba')",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "anas-ibn-malik",
+        "order": 4,
+        "roleTitle": "Companion (Sahabi)",
+        "transmissionFormulaAr": "قَالَ: قَالَ رَسُولُ اللَّهِ",
+        "transmissionFormulaEn": "Said: The Messenger of Allah said"
+      },
+      {
+        "narratorId": "prophet-muhammad",
+        "order": 5,
+        "roleTitle": "Messenger of Allah ﷺ",
+        "transmissionFormulaAr": "قَالَ",
+        "transmissionFormulaEn": "Said"
+      }
+    ]
+  },
+  {
+    "id": 3445,
+    "hadithNumber": 3442,
+    "bookNumber": 60,
+    "bookNameEn": "Prophets (Ahadith al-Anbiya)",
+    "bookNameAr": "كتاب أحاديث الأنبياء",
+    "chapterEn": "The brotherhood of all Prophets and closeness to Isa ibn Maryam (Jesus)",
+    "chapterAr": "باب قَوْلِ اللَّهِ تَعَالَى: {وَاذْكُرْ فِي الكِتَابِ مَرْيَمَ}",
+    "arabicSanad": "حَدَّثَنَا مُحَمَّدُ بْنُ سِنَانٍ قَالَ: حَدَّثَنَا فُلَيْحٌ، قَالَ: حَدَّثَنَا هِلاَلٌ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ ﷺ قَالَ:",
+    "arabicMatn": "«أَنَا أَوْلَى النَّاسِ بِعِيسَى ابْنِ مَرْيَمَ فِي الدُّنْيَا وَالآخِرَةِ، وَالأَنْبِيَاءُ إِخْوَةٌ لِعَلاَّتٍ، أُمَّهَاتُهُمْ شَتَّى وَدِينُهُمْ وَاحِدٌ».",
+    "englishTranslation": "Narrated Abu Hurairah: The Prophet ﷺ said: \"I am the closest of all mankind to Jesus, the son of Mary, in this world and in the Hereafter. The Prophets are paternal brothers: their mothers are different, but their religion is one.\"",
+    "companion": "Abu Hurairah",
+    "companionId": "abu-hurairah",
+    "primaryNarratorId": "qutaibah-ibn-said",
+    "theme": "Brotherhood of the Prophets",
+    "keyLesson": "All messengers delivered the same pristine monotheistic truth, forming an unbroken prophetic fraternity.",
+    "sunnahRef": "Sahih al-Bukhari 3442",
+    "inBookRef": "Book 60, Hadith 112",
+    "uscMsaRef": "Vol. 4, Book 55, Hadith 651",
+    "sunnahUrl": "https://sunnah.com/bukhari:3442",
+    "chain": [
+      {
+        "narratorId": "al-bukhari",
+        "order": 1,
+        "roleTitle": "Compiler & Author",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "qutaibah-ibn-said",
+        "order": 2,
+        "roleTitle": "Direct Teacher",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "malik-ibn-anas",
+        "order": 3,
+        "roleTitle": "Successor's Successor (Atba')",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "abu-salih-al-samman",
+        "order": 4,
+        "roleTitle": "Successor (Tabi'i)",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "abu-hurairah",
+        "order": 5,
+        "roleTitle": "Companion (Sahabi)",
+        "transmissionFormulaAr": "عَنِ النَّبِيِّ",
+        "transmissionFormulaEn": "From the Prophet"
+      },
+      {
+        "narratorId": "prophet-muhammad",
+        "order": 6,
+        "roleTitle": "Messenger of Allah ﷺ",
+        "transmissionFormulaAr": "قَالَ",
+        "transmissionFormulaEn": "Said"
+      }
+    ]
+  },
+  {
+    "id": 5065,
+    "hadithNumber": 5090,
+    "bookNumber": 67,
+    "bookNameEn": "Wedlock & Marriage (Nikah)",
+    "bookNameAr": "كتاب النكاح",
+    "chapterEn": "A woman is married for four qualities",
+    "chapterAr": "باب الأَكْفَاءِ فِي الدِّينِ",
+    "arabicSanad": "حَدَّثَنَا مُسَدَّدٌ قَالَ: حَدَّثَنَا يَحْيَى، عَنْ عُبَيْدِ اللَّهِ، قَالَ: حَدَّثَنِي سَعِيدُ بْنُ أَبِي سَعِيدٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ ﷺ قَالَ:",
+    "arabicMatn": "«تُنْكَحُ المَرْأَةُ لِأَرْبَعٍ: لِمَالِهَا، وَلِحَسَبِهَا، وَجَمَالِهَا، وَلِدِينِهَا، فَاظْفَرْ بِذَاتِ الدِّينِ تَرِبَتْ يَدَاكَ».",
+    "englishTranslation": "Narrated Abu Hurairah: The Prophet ﷺ said: \"A woman is married for four things: her wealth, her family status, her beauty, and her religious devotion. So marry the one who is religious, may your hands be dusted with good (may you prosper)!\"",
+    "companion": "Abu Hurairah",
+    "companionId": "abu-hurairah",
+    "primaryNarratorId": "musaddad-ibn-musarhad",
+    "theme": "Marital Values & Spiritual Compatibility",
+    "keyLesson": "While superficial beauty and material assets diminish with time, moral character and religious devotion are the only foundations supporting enduring peace in family life.",
+    "sunnahRef": "Sahih al-Bukhari 5090",
+    "inBookRef": "Book 67, Hadith 28",
+    "uscMsaRef": "Vol. 7, Book 62, Hadith 27",
+    "sunnahUrl": "https://sunnah.com/bukhari:5090",
+    "chain": [
+      {
+        "narratorId": "al-bukhari",
+        "order": 1,
+        "roleTitle": "Compiler & Author",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "musaddad-ibn-musarhad",
+        "order": 2,
+        "roleTitle": "Direct Teacher",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "sufyan-al-thawri",
+        "order": 3,
+        "roleTitle": "Successor's Successor (Atba')",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "abu-salih-al-samman",
+        "order": 4,
+        "roleTitle": "Successor (Tabi'i)",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "abu-hurairah",
+        "order": 5,
+        "roleTitle": "Companion (Sahabi)",
+        "transmissionFormulaAr": "عَنِ النَّبِيِّ",
+        "transmissionFormulaEn": "From the Prophet"
+      },
+      {
+        "narratorId": "prophet-muhammad",
+        "order": 6,
+        "roleTitle": "Messenger of Allah ﷺ",
+        "transmissionFormulaAr": "قَالَ",
+        "transmissionFormulaEn": "Said"
+      }
+    ]
+  },
+  {
+    "id": 5678,
+    "hadithNumber": 5688,
+    "bookNumber": 76,
+    "bookNameEn": "Medicine (Al-Tibb)",
+    "bookNameAr": "كتاب الطب",
+    "chapterEn": "The Virtues of the Black Seed (Habbat al-Sawda)",
+    "chapterAr": "باب الحَبَّةِ السَّوْدَاءِ",
+    "arabicSanad": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ أَبِي شَيْبَةَ قَالَ: حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ سُفْيَانَ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، أَنَّهُ سَمِعَ رَسُولَ اللَّهِ ﷺ يَقُولُ:",
+    "arabicMatn": "«فِي الحَبَّةِ السَّوْدَاءِ شِفَاءٌ مِنْ كُلِّ دَاءٍ، إِلَّا السَّامَ». قَالَ ابْنُ شِهَابٍ: وَالسَّامُ: المَوْتُ.",
+    "englishTranslation": "Narrated Abu Hurairah: I heard the Messenger of Allah ﷺ say: \"In the black seed (Nigella sativa) there is healing for every disease, except death.\" (Ibn Shihab said: Al-Sam means death).",
+    "companion": "Abu Hurairah",
+    "companionId": "abu-hurairah",
+    "primaryNarratorId": "ali-ibn-al-madini",
+    "theme": "Natural Therapeutics & Health",
+    "keyLesson": "Prophetic holistic medicine encourages seeking cures through wholesome natural remedies while recognizing human mortality.",
+    "sunnahRef": "Sahih al-Bukhari 5688",
+    "inBookRef": "Book 76, Hadith 10",
+    "uscMsaRef": "Vol. 7, Book 71, Hadith 592",
+    "sunnahUrl": "https://sunnah.com/bukhari:5688",
+    "chain": [
+      {
+        "narratorId": "al-bukhari",
+        "order": 1,
+        "roleTitle": "Compiler & Author",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "ali-ibn-al-madini",
+        "order": 2,
+        "roleTitle": "Direct Teacher",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "sufyan-ibn-uyaynah",
+        "order": 3,
+        "roleTitle": "Successor's Successor (Atba')",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "ibn-shihab-al-zuhri",
+        "order": 4,
+        "roleTitle": "Successor (Tabi'i)",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "abu-hurairah",
+        "order": 5,
+        "roleTitle": "Companion (Sahabi)",
+        "transmissionFormulaAr": "سَمِعَ رَسُولَ اللَّهِ",
+        "transmissionFormulaEn": "Heard the Messenger of Allah"
+      },
+      {
+        "narratorId": "prophet-muhammad",
+        "order": 6,
+        "roleTitle": "Messenger of Allah ﷺ",
+        "transmissionFormulaAr": "يَقُولُ",
+        "transmissionFormulaEn": "Saying"
+      }
+    ]
+  },
+  {
+    "id": 5971,
+    "hadithNumber": 5971,
+    "bookNumber": 78,
+    "bookNameEn": "Good Manners & Etiquette (Al-Adab)",
+    "bookNameAr": "كتاب الأدب",
+    "chapterEn": "Who is most worthy of noble companionship and devotion",
+    "chapterAr": "باب مَنْ أَحَقُّ النَّاسِ بِحُسْنِ الصَّحَابَةِ",
+    "arabicSanad": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ قَالَ: حَدَّثَنَا جَرِيرٌ، عَنْ عُمَارَةَ بْنِ القَعْقَاعِ، عَنْ أَبِي زُرْعَةَ، عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ:",
+    "arabicMatn": "جَاءَ رَجُلٌ إِلَى رَسُولِ اللَّهِ ﷺ فَقَالَ: يَا رَسُولَ اللَّهِ، مَنْ أَحَقُّ النَّاسِ بِحُسْنِ صَحَابَتِي؟ قَالَ: «أُمُّكَ» قَالَ: ثُمَّ مَنْ؟ قَالَ: «ثُمَّ أُمُّكَ» قَالَ: ثُمَّ مَنْ؟ قَالَ: «ثُمَّ أُمُّكَ» قَالَ: ثُمَّ مَنْ؟ قَالَ: «ثُمَّ أَبُوكَ».",
+    "englishTranslation": "A man came to the Messenger of Allah ﷺ and asked: \"O Messenger of Allah! Who among mankind is most deserving of my finest companionship and devotion?\" The Prophet ﷺ replied: \"Your mother.\" The man asked: \"Then who?\" The Prophet replied: \"Then your mother.\" The man asked again: \"Then who?\" The Prophet replied: \"Then your mother.\" The man asked once more: \"Then who?\" The Prophet replied: \"Then your father.\"",
+    "companion": "Abu Hurairah",
+    "companionId": "abu-hurairah",
+    "primaryNarratorId": "qutaibah-ibn-said",
+    "theme": "Filial Piety & Honor of Mothers",
+    "keyLesson": "Maternal sacrifice of childbearing and emotional devotion bestow upon the mother threefold priority in care and respectful deference.",
+    "sunnahRef": "Sahih al-Bukhari 5971",
+    "inBookRef": "Book 78, Hadith 2",
+    "uscMsaRef": "Vol. 8, Book 73, Hadith 2",
+    "sunnahUrl": "https://sunnah.com/bukhari:5971",
+    "chain": [
+      {
+        "narratorId": "al-bukhari",
+        "order": 1,
+        "roleTitle": "Compiler & Author",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "qutaibah-ibn-said",
+        "order": 2,
+        "roleTitle": "Direct Teacher",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "sufyan-al-thawri",
+        "order": 3,
+        "roleTitle": "Successor's Successor (Atba')",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "abu-salih-al-samman",
+        "order": 4,
+        "roleTitle": "Successor (Tabi'i)",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "abu-hurairah",
+        "order": 5,
+        "roleTitle": "Companion (Sahabi)",
+        "transmissionFormulaAr": "قَالَ",
+        "transmissionFormulaEn": "Narrated"
+      },
+      {
+        "narratorId": "prophet-muhammad",
+        "order": 6,
+        "roleTitle": "Messenger of Allah ﷺ",
+        "transmissionFormulaAr": "فَقَالَ",
+        "transmissionFormulaEn": "He replied"
+      }
+    ]
+  },
+  {
+    "id": 6018,
+    "hadithNumber": 6018,
+    "bookNumber": 78,
+    "bookNameEn": "Good Manners & Etiquette (Al-Adab)",
+    "bookNameAr": "كتاب الأدب",
+    "chapterEn": "To speak good or remain silent, and honor neighbors and guests",
+    "chapterAr": "باب مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَاليَوْمِ الآخِرِ فَلاَ يُؤْذِ جَارَهُ",
+    "arabicSanad": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ قَالَ: أَخْبَرَنَا مَالِكٌ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، أَنَّ رَسُولَ اللَّهِ ﷺ قَالَ:",
+    "arabicMatn": "«مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَاليَوْمِ الآخِرِ فَلْيَقُلْ خَيْرًا أَوْ لِيَصْمُتْ، وَمَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَاليَوْمِ الآخِرِ فَلاَ يُؤْذِ جَارَهُ، وَمَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَاليَوْمِ الآخِرِ فَلْيُكْرِمْ ضَيْفَهُ».",
+    "englishTranslation": "The Messenger of Allah ﷺ said: \"Whoever truly believes in Allah and the Last Day should speak what is good or remain silent; and whoever believes in Allah and the Last Day should not harm his neighbor; and whoever believes in Allah and the Last Day should honor his guest generously.\"",
+    "companion": "Abu Hurairah",
+    "companionId": "abu-hurairah",
+    "primaryNarratorId": "abdullah-ibn-yusuf",
+    "theme": "Guarding Speech & Social Harmony",
+    "keyLesson": "Speech possesses weighty spiritual consequences; words must be filtered through deliberate moral judgment before utterance.",
+    "sunnahRef": "Sahih al-Bukhari 6018",
+    "inBookRef": "Book 78, Hadith 48",
+    "uscMsaRef": "Vol. 8, Book 73, Hadith 47",
+    "sunnahUrl": "https://sunnah.com/bukhari:6018",
+    "chain": [
+      {
+        "narratorId": "al-bukhari",
+        "order": 1,
+        "roleTitle": "Compiler & Author",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "abdullah-ibn-yusuf",
+        "order": 2,
+        "roleTitle": "Direct Teacher",
+        "transmissionFormulaAr": "أَخْبَرَنَا",
+        "transmissionFormulaEn": "Informed us"
+      },
+      {
+        "narratorId": "malik-ibn-anas",
+        "order": 3,
+        "roleTitle": "Successor's Successor (Atba')",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "said-ibn-al-musayyib",
+        "order": 4,
+        "roleTitle": "Senior Successor (Kibar al-Tabi'in)",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "abu-hurairah",
+        "order": 5,
+        "roleTitle": "Companion (Sahabi)",
+        "transmissionFormulaAr": "أَنَّ رَسُولَ اللَّهِ",
+        "transmissionFormulaEn": "That the Messenger of Allah"
+      },
+      {
+        "narratorId": "prophet-muhammad",
+        "order": 6,
+        "roleTitle": "Messenger of Allah ﷺ",
+        "transmissionFormulaAr": "قَالَ",
+        "transmissionFormulaEn": "Said"
+      }
+    ]
+  },
+  {
+    "id": 6023,
+    "hadithNumber": 6114,
+    "bookNumber": 78,
+    "bookNameEn": "Good Manners & Etiquette (Al-Adab)",
+    "bookNameAr": "كتاب الأدب",
+    "chapterEn": "The true strong person is the one who controls himself in anger",
+    "chapterAr": "باب الحَذَرِ مِنَ الغَضَبِ",
+    "arabicSanad": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ قَالَ: أَخْبَرَنَا مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ سَعِيدِ بْنِ المُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، أَنَّ رَسُولَ اللَّهِ ﷺ قَالَ:",
+    "arabicMatn": "«لَيْسَ الشَّدِيدُ بِالصُّرَعَةِ، إِنَّمَا الشَّدِيدُ الَّذِي يَمْلِكُ نَفْسَهُ عِنْدَ الغَضَبِ».",
+    "englishTranslation": "Narrated Abu Hurairah: The Messenger of Allah ﷺ said: \"The strong is not the one who overcomes the people by his strength in wrestling, but the strong is the one who controls himself while in anger.\"",
+    "companion": "Abu Hurairah",
+    "companionId": "abu-hurairah",
+    "primaryNarratorId": "abdullah-ibn-yusuf",
+    "theme": "Emotional Mastery & Restraint",
+    "keyLesson": "True valor lies in conquering internal volatile impulses rather than overpowering outward physical adversaries.",
+    "sunnahRef": "Sahih al-Bukhari 6114",
+    "inBookRef": "Book 78, Hadith 141",
+    "uscMsaRef": "Vol. 8, Book 73, Hadith 135",
+    "sunnahUrl": "https://sunnah.com/bukhari:6114",
+    "chain": [
+      {
+        "narratorId": "al-bukhari",
+        "order": 1,
+        "roleTitle": "Compiler & Author",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "abdullah-ibn-yusuf",
+        "order": 2,
+        "roleTitle": "Direct Teacher",
+        "transmissionFormulaAr": "أَخْبَرَنَا",
+        "transmissionFormulaEn": "Informed us"
+      },
+      {
+        "narratorId": "malik-ibn-anas",
+        "order": 3,
+        "roleTitle": "Successor's Successor (Atba')",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "said-ibn-al-musayyib",
+        "order": 4,
+        "roleTitle": "Senior Successor (Kibar al-Tabi'in)",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "abu-hurairah",
+        "order": 5,
+        "roleTitle": "Companion (Sahabi)",
+        "transmissionFormulaAr": "أَنَّ رَسُولَ اللَّهِ",
+        "transmissionFormulaEn": "That the Messenger of Allah"
+      },
+      {
+        "narratorId": "prophet-muhammad",
+        "order": 6,
+        "roleTitle": "Messenger of Allah ﷺ",
+        "transmissionFormulaAr": "قَالَ",
+        "transmissionFormulaEn": "Said"
+      }
+    ]
+  },
+  {
+    "id": 6412,
+    "hadithNumber": 6412,
+    "bookNumber": 81,
+    "bookNameEn": "Heart-Softening Traditions (Al-Riqaq)",
+    "bookNameAr": "كتاب الرقاق",
+    "chapterEn": "Health and Free Time: Two blessings in which many are defrauded",
+    "chapterAr": "باب مَا جَاءَ فِي الرِّقَاقِ وَأَنْ لاَ عَيْشَ إِلَّا عَيْشُ الآخِرَةِ",
+    "arabicSanad": "حَدَّثَنَا الحُمَيْدِيُّ قَالَ: حَدَّثَنَا سُفْيَانُ قَالَ: حَدَّثَنَا عَبْدُ اللَّهِ بْنُ أَبِي نَجِيحٍ، عَنْ مُجَاهِدٍ، عَنِ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: قَالَ النَّبِيُّ ﷺ:",
+    "arabicMatn": "«نِعْمَتَانِ مَغْبُونٌ فِيهِمَا كَثِيرٌ مِنَ النَّاسِ: الصِّحَّةُ وَالفَرَاغُ».",
+    "englishTranslation": "Narrated Ibn `Abbas: The Prophet ﷺ said: \"There are two blessings in which many people are defrauded (cheated of their true value): good health and spare time.\"",
+    "companion": "'Abdullah ibn 'Abbas",
+    "companionId": "abdullah-ibn-abbas",
+    "primaryNarratorId": "al-humaydi",
+    "theme": "Appreciation of Time & Well-being",
+    "keyLesson": "Health and unstructured time are precious capital assets bestowed by the Divine; failing to invest them in beneficial deeds is an irreversible loss.",
+    "sunnahRef": "Sahih al-Bukhari 6412",
+    "inBookRef": "Book 81, Hadith 1",
+    "uscMsaRef": "Vol. 8, Book 76, Hadith 421",
+    "sunnahUrl": "https://sunnah.com/bukhari:6412",
+    "chain": [
+      {
+        "narratorId": "al-bukhari",
+        "order": 1,
+        "roleTitle": "Compiler & Author",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "al-humaydi",
+        "order": 2,
+        "roleTitle": "Direct Teacher",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "sufyan-ibn-uyaynah",
+        "order": 3,
+        "roleTitle": "Successor's Successor (Atba')",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "abdullah-ibn-abbas",
+        "order": 4,
+        "roleTitle": "Companion (Sahabi)",
+        "transmissionFormulaAr": "قَالَ: قَالَ النَّبِيُّ",
+        "transmissionFormulaEn": "Said: The Prophet said"
+      },
+      {
+        "narratorId": "prophet-muhammad",
+        "order": 5,
+        "roleTitle": "Messenger of Allah ﷺ",
+        "transmissionFormulaAr": "قَالَ",
+        "transmissionFormulaEn": "Said"
+      }
+    ]
+  },
+  {
+    "id": 6416,
+    "hadithNumber": 6416,
+    "bookNumber": 81,
+    "bookNameEn": "Heart-Softening Traditions (Al-Riqaq)",
+    "bookNameAr": "كتاب الرقاق",
+    "chapterEn": "Be in this world as though you were a stranger or a wayfarer",
+    "chapterAr": "باب كُنْ فِي الدُّنْيَا كَأَنَّكَ غَرِيبٌ أَوْ عَابِرُ سَبِيلٍ",
+    "arabicSanad": "حَدَّثَنَا عَلِيُّ بْنُ المَدِينِيِّ قَالَ: حَدَّثَنَا سُفْيَانُ، قَالَ: قَالَ لِي الأَعْمَشُ، عَنْ مُجَاهِدٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: أَخَذَ رَسُولُ اللَّهِ ﷺ بِمَنْكِبِي فَقَالَ:",
+    "arabicMatn": "«كُنْ فِي الدُّنْيَا كَأَنَّكَ غَرِيبٌ أَوْ عَابِرُ سَبِيلٍ». وَكَانَ ابْنُ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا يَقُولُ: إِذَا أَمْسَيْتَ فَلاَ تَنْتَظِرِ الصَّبَاحَ، وَإِذَا أَصْبَحْتَ فَلاَ تَنْتَظِرِ المَسَاءَ، وَخُذْ مِنْ صِحَّتِكَ لِسَقَمِكَ، وَمِنْ حَيَاتِكَ لِمَوْتِكَ.",
+    "englishTranslation": "Abdullah ibn Umar reported: The Messenger of Allah ﷺ took hold of my shoulder and said: \"Be in this world as though you were a stranger or a traveler passing on a way.\" And Ibn Umar used to say: \"When evening comes, do not expect the morning; and when morning comes, do not expect the evening. Take from your health for your sickness, and from your life for your death.\"",
+    "companion": "'Abdullah ibn 'Umar",
+    "companionId": "abdullah-ibn-umar",
+    "primaryNarratorId": "ali-ibn-al-madini",
+    "theme": "Asceticism & Awareness of Mortality",
+    "keyLesson": "Cultivating the internal mindset of a transient traveler prevents toxic attachment to worldly accumulation, focusing spiritual energies on the enduring eternal home.",
+    "sunnahRef": "Sahih al-Bukhari 6416",
+    "inBookRef": "Book 81, Hadith 5",
+    "uscMsaRef": "Vol. 8, Book 76, Hadith 425",
+    "sunnahUrl": "https://sunnah.com/bukhari:6416",
+    "chain": [
+      {
+        "narratorId": "al-bukhari",
+        "order": 1,
+        "roleTitle": "Compiler & Author",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "ali-ibn-al-madini",
+        "order": 2,
+        "roleTitle": "Direct Teacher",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "sufyan-ibn-uyaynah",
+        "order": 3,
+        "roleTitle": "Successor's Successor (Atba')",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "al-amash",
+        "order": 4,
+        "roleTitle": "Successor (Tabi'i)",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "abdullah-ibn-umar",
+        "order": 5,
+        "roleTitle": "Companion (Sahabi)",
+        "transmissionFormulaAr": "قَالَ: أَخَذَ رَسُولُ اللَّهِ بِمَنْكِبِي",
+        "transmissionFormulaEn": "Said: The Messenger of Allah took hold of my shoulder"
+      },
+      {
+        "narratorId": "prophet-muhammad",
+        "order": 6,
+        "roleTitle": "Messenger of Allah ﷺ",
+        "transmissionFormulaAr": "فَقَالَ",
+        "transmissionFormulaEn": "And said"
+      }
+    ]
+  },
+  {
+    "id": 6502,
+    "hadithNumber": 6502,
+    "bookNumber": 81,
+    "bookNameEn": "Heart-Softening Traditions (Al-Riqaq)",
+    "bookNameAr": "كتاب الرقاق",
+    "chapterEn": "Humility and the Sacred Hadith Qudsi of the Devoted Friends of Allah",
+    "chapterAr": "باب التَّوَاضُعِ",
+    "arabicSanad": "حَدَّثَنِي مُحَمَّدُ بْنُ عُثْمَانَ بْنِ كَرَامَةَ قَالَ: حَدَّثَنَا خَالِدُ بْنُ مَخْلَدٍ، قَالَ: حَدَّثَنَا سُلَيْمَانُ بْنُ بِلاَلٍ، قَالَ: حَدَّثَنِي شَرِيكُ بْنُ عَبْدِ اللَّهِ، عَنْ عَطَاءٍ، عَنْ أَبِي هُرَيْرَةَ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ:",
+    "arabicMatn": "إِنَّ اللَّهَ قَالَ: «مَنْ عَادَى لِي وَلِيًّا فَقَدْ آذَنْتُهُ بِالحَرْبِ، وَمَا تَقَرَّبَ إِلَيَّ عَبْدِي بِشَيْءٍ أَحَبَّ إِلَيَّ مِمَّا افْتَرَضْتُ عَلَيْهِ، وَمَا يَزَالُ عَبْدِي يَتَقَرَّبُ إِلَيَّ بِالنَّوَافِلِ حَتَّى أُحِبَّهُ، فَإِذَا أَحْبَبْتُهُ: كُنْتُ سَمْعَهُ الَّذِي يَسْمَعُ بِهِ، وَبَصَرَهُ الَّذِي يُبْصِرُ بِهِ، وَيَدَهُ الَّتِي يَبْطِشُ بِهَا، وَرِجْلَهُ الَّتِي يَمْشِي بِهَا، وَإِنْ سَأَلَنِي لَأُعْطِيَنَّهُ، وَلَئِنِ اسْتَعَاذَنِي لَأُعِيذَنَّهُ».",
+    "englishTranslation": "Narrated Abu Hurairah: The Messenger of Allah ﷺ said: \"Allah said: 'Whosoever shows enmity to a friend of Mine (a righteous wali), I declare war upon him. And My servant does not draw near to Me with anything more beloved to Me than the religious duties I have obligated upon him. And My servant continues to draw near to Me with voluntary good deeds until I love him. When I love him, I become his hearing with which he hears, his seeing with which he sees, his hand with which he strikes, and his foot with which he walks. Were he to ask of Me, I would surely bestow upon him; and were he to seek refuge in Me, I would surely grant him refuge.'\"",
+    "companion": "Abu Hurairah",
+    "companionId": "abu-hurairah",
+    "primaryNarratorId": "qutaibah-ibn-said",
+    "theme": "Divine Proximity (Wilayah) & Hadith Qudsi",
+    "keyLesson": "The sublime pinnacle of human spiritual aspiration: moving from dutiful fulfillment of obligations into spontaneous loving devotion until all actions become illuminated by divine guidance.",
+    "sunnahRef": "Sahih al-Bukhari 6502",
+    "inBookRef": "Book 81, Hadith 91",
+    "uscMsaRef": "Vol. 8, Book 76, Hadith 509",
+    "sunnahUrl": "https://sunnah.com/bukhari:6502",
+    "chain": [
+      {
+        "narratorId": "al-bukhari",
+        "order": 1,
+        "roleTitle": "Compiler & Author",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "qutaibah-ibn-said",
+        "order": 2,
+        "roleTitle": "Direct Teacher",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "malik-ibn-anas",
+        "order": 3,
+        "roleTitle": "Successor's Successor (Atba')",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "abu-salih-al-samman",
+        "order": 4,
+        "roleTitle": "Successor (Tabi'i)",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "abu-hurairah",
+        "order": 5,
+        "roleTitle": "Companion (Sahabi)",
+        "transmissionFormulaAr": "قَالَ: قَالَ رَسُولُ اللَّهِ",
+        "transmissionFormulaEn": "Said: The Messenger of Allah said"
+      },
+      {
+        "narratorId": "prophet-muhammad",
+        "order": 6,
+        "roleTitle": "Messenger of Allah ﷺ",
+        "transmissionFormulaAr": "قَالَ",
+        "transmissionFormulaEn": "Said (Hadith Qudsi)"
+      }
+    ]
+  },
+  {
+    "id": 7288,
+    "hadithNumber": 7280,
+    "bookNumber": 96,
+    "bookNameEn": "Holding Fast to the Qur'an and Sunnah",
+    "bookNameAr": "كتاب الاعتصام بالكتاب والسنة",
+    "chapterEn": "Following the Sunnah of the Messenger of Allah ﷺ",
+    "chapterAr": "باب الاِقْتِدَاءِ بِسُنَنِ رَسُولِ اللَّهِ ﷺ",
+    "arabicSanad": "حَدَّثَنَا مُحَمَّدُ بْنُ سِنَانٍ قَالَ: حَدَّثَنَا فُلَيْحٌ، قَالَ: حَدَّثَنَا هِلاَلُ بْنُ عَلِيٍّ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ ﷺ قَالَ:",
+    "arabicMatn": "«كُلُّ أُمَّتِي يَدْخُلُونَ الجَنَّةَ إِلَّا مَنْ أَبَى». قَالُوا: يَا رَسُولَ اللَّهِ، وَمَنْ يَأْبَى؟ قَالَ: «مَنْ أَطَاعَنِي دَخَلَ الجَنَّةَ، وَمَنْ عَصَانِي فَقَدْ أَبَى».",
+    "englishTranslation": "Narrated Abu Hurairah: The Messenger of Allah ﷺ said: \"All my nation will enter Paradise except whoever refuses.\" They asked: \"O Messenger of Allah! And who refuses?\" He ﷺ replied: \"Whoever obeys me enters Paradise, and whoever disobeys me has indeed refused.\"",
+    "companion": "Abu Hurairah",
+    "companionId": "abu-hurairah",
+    "primaryNarratorId": "musaddad-ibn-musarhad",
+    "theme": "Adherence to the Prophetic Model",
+    "keyLesson": "Paradise is wide open for humanity; the only obstacle is self-willed stubbornness and refusing divine guidance.",
+    "sunnahRef": "Sahih al-Bukhari 7280",
+    "inBookRef": "Book 96, Hadith 11",
+    "uscMsaRef": "Vol. 9, Book 92, Hadith 384",
+    "sunnahUrl": "https://sunnah.com/bukhari:7280",
+    "chain": [
+      {
+        "narratorId": "al-bukhari",
+        "order": 1,
+        "roleTitle": "Compiler & Author",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "musaddad-ibn-musarhad",
+        "order": 2,
+        "roleTitle": "Direct Teacher",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "abu-salih-al-samman",
+        "order": 3,
+        "roleTitle": "Successor (Tabi'i)",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "abu-hurairah",
+        "order": 4,
+        "roleTitle": "Companion (Sahabi)",
+        "transmissionFormulaAr": "أَنَّ رَسُولَ اللَّهِ",
+        "transmissionFormulaEn": "That the Messenger of Allah"
+      },
+      {
+        "narratorId": "prophet-muhammad",
+        "order": 5,
+        "roleTitle": "Messenger of Allah ﷺ",
+        "transmissionFormulaAr": "قَالَ",
+        "transmissionFormulaEn": "Said"
+      }
+    ]
+  },
+  {
+    "id": 7372,
+    "hadithNumber": 7372,
+    "bookNumber": 97,
+    "bookNameEn": "Oneness of Allah (Tawhid)",
+    "bookNameAr": "كتاب التوحيد",
+    "chapterEn": "Inviting to the Oneness and Worship of Allah Alone",
+    "chapterAr": "باب مَا جَاءَ فِي دُعَاءِ النَّبِيِّ ﷺ أُمَّتَهُ إِلَى تَوْحِيدِ اللَّهِ تَبَارَكَ وَتَعَالَى",
+    "arabicSanad": "حَدَّثَنَا أَبُو عَاصِمٍ، عَنْ زَكَرِيَّاءَ بْنِ إِسْحَاقَ، عَنْ يَحْيَى بْنِ عَبْدِ اللَّهِ، عَنْ أَبِي مَعْبَدٍ، عَنِ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا:",
+    "arabicMatn": "أَنَّ النَّبِيَّ ﷺ بَعَثَ مُعَاذًا إِلَى اليَمَنِ، فَقَالَ: «إِنَّكَ تَأْتِي قَوْمًا أَهْلَ كِتَابٍ، فَادْعُهُمْ إِلَى أَنْ يَشْهَدُوا أَنْ لاَ إِلَهَ إِلَّا اللَّهُ وَأَنِّي رَسُولُ اللَّهِ، فَإِنْ هُمْ أَطَاعُوا لِذَلِكَ، فَأَعْلِمْهُمْ أَنَّ اللَّهَ افْتَرَضَ عَلَيْهِمْ خَمْسَ صَلَوَاتٍ فِي كُلِّ يَوْمٍ وَلَيْلَةٍ، فَإِنْ هُمْ أَطَاعُوا لِذَلِكَ، فَأَعْلِمْهُمْ أَنَّ اللَّهَ افْتَرَضَ عَلَيْهِمْ صَدَقَةً تُؤْخَذُ مِنْ أَغْنِيَائِهِمْ فَتُرَدُّ عَلَى فُقَرَائِهِمْ».",
+    "englishTranslation": "Narrated Ibn `Abbas: The Prophet ﷺ sent Mu`adh to Yemen and said: \"You are going to a people who are of the Scripture, so first invite them to testify that none has the right to be worshiped but Allah and that I am the Messenger of Allah. If they obey you in that, then inform them that Allah has enjoined upon them five prayers in every day and night. If they obey you in that, then inform them that Allah has enjoined upon them charity (Zakat) to be taken from their rich and given to their poor.\"",
+    "companion": "'Abdullah ibn 'Abbas",
+    "companionId": "abdullah-ibn-abbas",
+    "primaryNarratorId": "ali-ibn-al-madini",
+    "theme": "Priorities of Dawah & Monotheism",
+    "keyLesson": "Pedagogical sequencing in religion: the Oneness of God (Tawhid) is the foundation of all theology, followed by prayer, followed by social justice and poverty alleviation through Zakat.",
+    "sunnahRef": "Sahih al-Bukhari 7372",
+    "inBookRef": "Book 97, Hadith 1",
+    "uscMsaRef": "Vol. 9, Book 93, Hadith 469",
+    "sunnahUrl": "https://sunnah.com/bukhari:7372",
+    "chain": [
+      {
+        "narratorId": "al-bukhari",
+        "order": 1,
+        "roleTitle": "Compiler & Author",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "ali-ibn-al-madini",
+        "order": 2,
+        "roleTitle": "Direct Teacher",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "sufyan-ibn-uyaynah",
+        "order": 3,
+        "roleTitle": "Successor's Successor (Atba')",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "abdullah-ibn-abbas",
+        "order": 4,
+        "roleTitle": "Companion (Sahabi)",
+        "transmissionFormulaAr": "عَنِ ابْنِ عَبَّاسٍ",
+        "transmissionFormulaEn": "From Ibn Abbas"
+      },
+      {
+        "narratorId": "prophet-muhammad",
+        "order": 5,
+        "roleTitle": "Messenger of Allah ﷺ",
+        "transmissionFormulaAr": "قَالَ",
+        "transmissionFormulaEn": "Said"
+      }
+    ]
+  },
+  {
+    "id": 7563,
+    "hadithNumber": 7563,
+    "bookNumber": 97,
+    "bookNameEn": "Oneness of Allah (Tawhid)",
+    "bookNameAr": "كتاب التوحيد",
+    "chapterEn": "The Final Hadith of Sahih al-Bukhari: Words beloved to the Most Merciful",
+    "chapterAr": "باب قَوْلِ اللَّهِ تَعَالَى: {وَنَضَعُ المَوَازِينَ القِسْطَ لِيَوْمِ القِيَامَةِ}",
+    "arabicSanad": "حَدَّثَنَا أَحْمَدُ بْنُ إِشْكَابٍ قَالَ: حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ، عَنْ عُمَارَةَ بْنِ القَعْقَاعِ، عَنْ أَبِي زُرْعَةَ، عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ النَّبِيُّ ﷺ:",
+    "arabicMatn": "«كَلِمَتَانِ حَبِيبَتَانِ إِلَى الرَّحْمَنِ، خَفِيفَتَانِ عَلَى اللِّسَانِ، ثَقِيلَتَانِ فِي المِيزَانِ: سُبْحَانَ اللَّهِ وَبِحَمْدِهِ، سُبْحَانَ اللَّهِ العَظِيمِ».",
+    "englishTranslation": "The Prophet ﷺ said: \"Two words (phrases) are beloved to the Most Merciful (Al-Rahman), light upon the tongue, yet heavy in the Balance: 'Subhan Allahi wa bihamdihi, Subhan Allahil-Azeem' (Glory be to Allah and His is the praise; Glory be to Allah the Tremendous).\"",
+    "companion": "Abu Hurairah",
+    "companionId": "abu-hurairah",
+    "primaryNarratorId": "qutaibah-ibn-said",
+    "theme": "Glorification of Allah (Dhikr)",
+    "keyLesson": "Imam al-Bukhari chose this magnificent statement as the final jewel of his lifetime compilation, concluding his work on the eternal scales of the Day of Judgment tipping heavily with the praise and transcendence of the Creator.",
+    "sunnahRef": "Sahih al-Bukhari 7563",
+    "inBookRef": "Book 97, Hadith 190",
+    "uscMsaRef": "Vol. 9, Book 93, Hadith 652",
+    "sunnahUrl": "https://sunnah.com/bukhari:7563",
+    "chain": [
+      {
+        "narratorId": "al-bukhari",
+        "order": 1,
+        "roleTitle": "Compiler & Author",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us",
+        "narrationNote": "Concluded his Sahih with this benediction of eternal hope in divine mercy."
+      },
+      {
+        "narratorId": "qutaibah-ibn-said",
+        "order": 2,
+        "roleTitle": "Direct Teacher",
+        "transmissionFormulaAr": "حَدَّثَنَا",
+        "transmissionFormulaEn": "Narrated to us"
+      },
+      {
+        "narratorId": "sufyan-al-thawri",
+        "order": 3,
+        "roleTitle": "Successor's Successor (Atba')",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "abu-salih-al-samman",
+        "order": 4,
+        "roleTitle": "Successor (Tabi'i)",
+        "transmissionFormulaAr": "عَنْ",
+        "transmissionFormulaEn": "From"
+      },
+      {
+        "narratorId": "abu-hurairah",
+        "order": 5,
+        "roleTitle": "Companion (Sahabi)",
+        "transmissionFormulaAr": "قَالَ: قَالَ النَّبِيُّ",
+        "transmissionFormulaEn": "Said: The Prophet said"
+      },
+      {
+        "narratorId": "prophet-muhammad",
+        "order": 6,
+        "roleTitle": "Messenger of Allah ﷺ",
+        "transmissionFormulaAr": "قَالَ",
+        "transmissionFormulaEn": "Said"
+      }
+    ]
+  }
 ]
