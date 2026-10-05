@@ -1,0 +1,1132 @@
+{
+  "prophet-muhammad": {
+    "id": "prophet-muhammad",
+    "name": "Prophet Muhammad ﷺ",
+    "arabicName": "مُحَمَّدٌ رَسُولُ اللَّهِ ﷺ",
+    "fullName": "Muhammad ibn Abd Allah ibn Abd al-Muttalib al-Qurashi",
+    "arabicFullName": "محمد بن عبد الله بن عبد المطلب القرشي الهاشمي ﷺ",
+    "kunya": "Abu al-Qasim",
+    "generation": "Prophet",
+    "deathYearAH": "11 AH",
+    "deathYearCE": "632 CE",
+    "deathLocation": "Madinah al-Munawwarah",
+    "residence": [
+      "Makkah al-Mukarramah",
+      "Madinah al-Munawwarah"
+    ],
+    "grade": "Final Messenger of Allah & Seal of the Prophets",
+    "ibnHajarGrade": "Sayyid al-Awwaleen wal-Akhireen (Master of the First and the Last)",
+    "dhahabiGrade": "The Messenger of the Lord of the Worlds",
+    "biography": "The final messenger and prophet sent by Allah to humanity, recipient of the Holy Qur'an, and embodiment of divine wisdom and exemplary prophetic character. Every authentic hadith traces back either directly to his sacred speech (qawl), noble actions (fi'l), tacit approvals (taqrir), or physical and moral description (sifah).",
+    "scholarlyContribution": "The primary source of the Sunnah, the second foundational source of Islamic law, ethics, creed, and spiritual life.",
+    "teachers": [
+      "Archangel Jibril (Gabriel) via Divine Revelation"
+    ],
+    "students": [
+      "The Sahabah (Companions) - may Allah be pleased with all of them"
+    ]
+  },
+  "al-bukhari": {
+    "id": "al-bukhari",
+    "name": "Imam al-Bukhari",
+    "arabicName": "الإِمَامُ البُخَارِيُّ",
+    "fullName": "Abu Abd Allah Muhammad ibn Isma'il ibn Ibrahim al-Ju'fi al-Bukhari",
+    "arabicFullName": "أبو عبد الله محمد بن إسماعيل بن إبراهيم بن المغيرة الجعفي البخاري",
+    "kunya": "Abu Abd Allah",
+    "generation": "Author / Compiler",
+    "deathYearAH": "256 AH",
+    "deathYearCE": "870 CE",
+    "deathLocation": "Khartank (near Samarkand)",
+    "residence": [
+      "Bukhara",
+      "Makkah",
+      "Madinah",
+      "Basra",
+      "Kufa",
+      "Baghdad",
+      "Egypt",
+      "Nishapur"
+    ],
+    "grade": "Amir al-Mu'minin fil-Hadith (Commander of the Faithful in Hadith)",
+    "ibnHajarGrade": "Mountain of memorization, master of hadith criticism and defect analysis",
+    "dhahabiGrade": "The unequaled master of all Hadith masters, compiler of the most authentic book after the Qur'an",
+    "biography": "Born in Bukhara in 194 AH, Imam al-Bukhari was orphaned in childhood and blessed with miraculous memory. He traveled across the entire Islamic realm for over sixteen years, examining over 600,000 traditions to compile \"Al-Jami' al-Sahih\", the most rigorously authenticated collection in history. Before recording every single hadith in his Sahih, he performed ritual purification and prayed two units of istikharah prayer.",
+    "scholarlyContribution": "Established the highest criteria for hadith authenticity (requiring positive proof of direct contemporary meeting and unblemished moral integrity). Author of Sahih al-Bukhari, Al-Tarikh al-Kabir, and Al-Adab al-Mufrad.",
+    "teachers": [
+      "Al-Humaydi",
+      "Ahmad ibn Hanbal",
+      "Ali ibn al-Madini",
+      "Ishaq ibn Rahawayh",
+      "Yahya ibn Ma'in"
+    ],
+    "students": [
+      "Imam Muslim",
+      "Al-Tirmidhi",
+      "Al-Nasa'i",
+      "Ibn Khuzaymah",
+      "Muhammad ibn Yusuf al-Firabri"
+    ]
+  },
+  "umar-ibn-al-khattab": {
+    "id": "umar-ibn-al-khattab",
+    "name": "'Umar ibn al-Khattab",
+    "arabicName": "عُمَرُ بْنُ الخَطَّابِ",
+    "fullName": "Abu Hafs 'Umar ibn al-Khattab al-Qurashi al-Adawi",
+    "arabicFullName": "أبو حفص عمر بن الخطاب بن نفيل القرشي العدوي رضي الله عنه",
+    "kunya": "Abu Hafs",
+    "generation": "Sahabi (Companion)",
+    "deathYearAH": "23 AH",
+    "deathYearCE": "644 CE",
+    "deathLocation": "Madinah al-Munawwarah",
+    "residence": [
+      "Makkah",
+      "Madinah"
+    ],
+    "grade": "Sahabi 'Adl (Righteous Companion) - Amir al-Mu'minin",
+    "ibnHajarGrade": "Second Rightly-Guided Caliph, distinguished between truth and falsehood (Al-Faruq)",
+    "dhahabiGrade": "One of the ten promised Paradise, supreme in justice and governance",
+    "biography": "Known as Al-Faruq (the one who distinguishes between truth and falsehood), 'Umar was the second Rightly-Guided Caliph. Renowned for his uncompromising justice, deep legal understanding, and humility. The Prophet ﷺ said of him: \"If there were to be a prophet after me, it would be 'Umar.\" He narrated foundational traditions of Islam, including the world-renowned Hadith of Intentions and the Hadith of Jibril.",
+    "scholarlyContribution": "Narrated over 500 hadiths; instituted the Islamic Hijri calendar, the compilation of the Qur'an council, and systematic public records.",
+    "teachers": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "students": [
+      "Ibn Umar",
+      "Ibn Abbas",
+      "Abu Hurairah",
+      "Alqama ibn Waqqas",
+      "Anas ibn Malik"
+    ]
+  },
+  "aisha-bint-abi-bakr": {
+    "id": "aisha-bint-abi-bakr",
+    "name": "'A'isha bint Abi Bakr",
+    "arabicName": "عَائِشَةُ بِنْتُ أَبِي بَكْرٍ",
+    "fullName": "'A'isha bint Abi Bakr al-Siddiq al-Qurashiyyah",
+    "arabicFullName": "أم المؤمنين عائشة بنت أبي بكر الصديق القرشية التيمية رضي الله عنها",
+    "kunya": "Umm Abd Allah",
+    "generation": "Sahabi (Companion)",
+    "deathYearAH": "58 AH",
+    "deathYearCE": "678 CE",
+    "deathLocation": "Madinah al-Munawwarah",
+    "residence": [
+      "Makkah",
+      "Madinah"
+    ],
+    "grade": "Mother of the Believers & Foremost Jurist of the Sahabah",
+    "ibnHajarGrade": "Faqihat al-Ummah (Jurist of the Nation), the most knowledgeable woman in history",
+    "dhahabiGrade": "The beloved of the Messenger of Allah ﷺ, profound in Quranic interpretation, medicine, and poetry",
+    "biography": "Wife of the Prophet Muhammad ﷺ and daughter of Abu Bakr al-Siddiq. She possessed an extraordinary intellect and exceptional memory, preserving the intimate prophetic traditions, daily ethics, prayer rituals, and household sunnah that no one else could observe. Sahabah regularly consulted her on intricate legal and inheritance dilemmas.",
+    "scholarlyContribution": "Narrated 2,210 hadiths, ranking among the top four most prolific narrators. Renowned for her rigorous critical analysis (istidrak) of reports.",
+    "teachers": [
+      "Prophet Muhammad ﷺ",
+      "Abu Bakr al-Siddiq"
+    ],
+    "students": [
+      "Urwah ibn al-Zubayr",
+      "Al-Qasim ibn Muhammad",
+      "Aswad ibn Yazid",
+      "Masruq",
+      "Amrah bint Abd al-Rahman"
+    ]
+  },
+  "abu-hurairah": {
+    "id": "abu-hurairah",
+    "name": "Abu Hurairah",
+    "arabicName": "أَبُو هُرَيْرَةَ",
+    "fullName": "Abd al-Rahman ibn Sakhr al-Dawsi",
+    "arabicFullName": "عبد الرحمن بن صخر الدوسي رضي الله عنه",
+    "kunya": "Abu Hurairah (Father of the Kitten)",
+    "generation": "Sahabi (Companion)",
+    "deathYearAH": "59 AH",
+    "deathYearCE": "679 CE",
+    "deathLocation": "Madinah al-Munawwarah",
+    "residence": [
+      "Yemen",
+      "Madinah"
+    ],
+    "grade": "Sahabi 'Adl - Most Prolific Narrator of Hadith",
+    "ibnHajarGrade": "The foremost memorizer among the Companions, certified by prophetic du'a for unfailing memory",
+    "dhahabiGrade": "Imam al-Hafiz, the vessel of prophetic sunnah",
+    "biography": "Embraced Islam in 7 AH during the conquest of Khaybar and dedicated himself entirely to the companionship of the Prophet ﷺ as a prominent resident of Ahl al-Suffah. The Prophet ﷺ made a special supplication that Abu Hurairah would never forget what he heard. He devoted the remainder of his life to teaching and transmitting hadiths to hundreds of students.",
+    "scholarlyContribution": "Narrated 5,374 hadiths, the highest number of any Companion. Over 800 scholars and successors transmitted hadiths on his authority.",
+    "teachers": [
+      "Prophet Muhammad ﷺ",
+      "Abu Bakr al-Siddiq",
+      "Umar ibn al-Khattab",
+      "Ubayy ibn Ka'b"
+    ],
+    "students": [
+      "Sa'id ibn al-Musayyib",
+      "Ibn Sirin",
+      "Tawus",
+      "Mujahid",
+      "Abu Salih al-Samman",
+      "Al-A'raj"
+    ]
+  },
+  "anas-ibn-malik": {
+    "id": "anas-ibn-malik",
+    "name": "Anas ibn Malik",
+    "arabicName": "أَنَسُ بْنُ مَالِكٍ",
+    "fullName": "Anas ibn Malik ibn al-Nadr al-Ansari al-Khazraji",
+    "arabicFullName": "أبو حمزة أنس بن مالك بن النضر الأنصاري الخزرجي رضي الله عنه",
+    "kunya": "Abu Hamza",
+    "generation": "Sahabi (Companion)",
+    "deathYearAH": "93 AH",
+    "deathYearCE": "712 CE",
+    "deathLocation": "Basra",
+    "residence": [
+      "Madinah",
+      "Basra"
+    ],
+    "grade": "Sahabi 'Adl - Personal Servant of the Prophet ﷺ",
+    "ibnHajarGrade": "Served the Prophet ﷺ for ten years; blessed with longevity, knowledge, and righteous progeny",
+    "dhahabiGrade": "Mufti, Qari, and last surviving Companion in Basra",
+    "biography": "Presented by his mother Umm Sulaym to serve the Prophet Muhammad ﷺ at the age of ten upon the Hijrah to Madinah. He served the Prophet ﷺ continuously for ten years with deep loyalty and observed the Prophet's most intimate manners and kindness. The Prophet ﷺ prayed for him: \"O Allah, grant him abundance in wealth and children, and bless him in all You bestow upon him.\"",
+    "scholarlyContribution": "Narrated 2,286 hadiths. Transmitted crucial insights on prophetic temperament, humility, prayer conduct, and daily etiquette.",
+    "teachers": [
+      "Prophet Muhammad ﷺ",
+      "Abu Bakr al-Siddiq",
+      "Umar ibn al-Khattab",
+      "Uthman ibn Affan"
+    ],
+    "students": [
+      "Al-Hasan al-Basri",
+      "Ibn Sirin",
+      "Qatadah",
+      "Thabit al-Bunani",
+      "Al-Zuhri"
+    ]
+  },
+  "abdullah-ibn-umar": {
+    "id": "abdullah-ibn-umar",
+    "name": "'Abdullah ibn 'Umar",
+    "arabicName": "عَبْدُ اللَّهِ بْنُ عُمَرَ",
+    "fullName": "Abu Abd al-Rahman Abd Allah ibn Umar ibn al-Khattab al-Qurashi",
+    "arabicFullName": "أبو عبد الرحمن عبد الله بن عمر بن الخطاب القرشي العدوي رضي الله عنهما",
+    "kunya": "Abu Abd al-Rahman",
+    "generation": "Sahabi (Companion)",
+    "deathYearAH": "73 AH",
+    "deathYearCE": "693 CE",
+    "deathLocation": "Makkah al-Mukarramah",
+    "residence": [
+      "Makkah",
+      "Madinah"
+    ],
+    "grade": "Sahabi 'Adl - Exemplar of Strict Adherence to the Sunnah",
+    "ibnHajarGrade": "Eminent jurist, scrupulous worshiper, famed for matching the Prophet's footsteps in every detail",
+    "dhahabiGrade": "Imam, master of Madinan jurisprudence, uncompromising in avoiding political strife",
+    "biography": "Son of 'Umar ibn al-Khattab. Known throughout Islamic history for his passionate, exact replication of prophetic behavior—even sitting where the Prophet sat and walking along the same paths. He was revered for his intense piety, generous charity, and resolute refusal of judicial or caliphal offices during periods of civil conflict.",
+    "scholarlyContribution": "Narrated 2,630 hadiths. His narrations through his freed slave Nafi' and Imam Malik form the renowned \"Golden Chain\" (Silsilat al-Dhahab).",
+    "teachers": [
+      "Prophet Muhammad ﷺ",
+      "Umar ibn al-Khattab",
+      "Abu Bakr al-Siddiq",
+      "Aisha"
+    ],
+    "students": [
+      "Nafi' Mawla Ibn Umar",
+      "Salim ibn Abd Allah ibn Umar",
+      "Sa'id ibn al-Musayyib",
+      "Al-Zuhri"
+    ]
+  },
+  "al-humaydi": {
+    "id": "al-humaydi",
+    "name": "Al-Humaydi",
+    "arabicName": "الحُمَيْدِيُّ",
+    "fullName": "Abu Bakr Abd Allah ibn al-Zubayr ibn Isa al-Qurashi al-Asadi al-Humaydi",
+    "arabicFullName": "أبو بكر عبد الله بن الزبير بن عيسى القرشي الأسدي الحميدي",
+    "kunya": "Abu Bakr",
+    "generation": "Kibar Atba' al-Tabi'in",
+    "deathYearAH": "219 AH",
+    "deathYearCE": "834 CE",
+    "deathLocation": "Makkah al-Mukarramah",
+    "residence": [
+      "Makkah"
+    ],
+    "grade": "Thiqah Hafiz Faqih (Trustworthy, Master Memorizer, Jurist)",
+    "ibnHajarGrade": "Thiqah Hafiz Faqih, foremost companion and transmitter of Sufyan ibn Uyaynah",
+    "dhahabiGrade": "Imam, Mufti of the Sacred Sanctuary of Makkah, author of the renowned Musnad",
+    "biography": "The leading master of Hadith in Makkah and close companion of Imam al-Shafi'i. Imam al-Bukhari chose to open his Sahih with a narration from al-Humaydi (Hadith #1 on Intentions) as an auspicious blessing and homage to his venerable Makkan teacher. Known for his steadfast adherence to Sunnah and defense of orthodox creed.",
+    "scholarlyContribution": "Author of Musnad al-Humaydi; transmitted the vast Makkan heritage of Sufyan ibn 'Uyaynah with exquisite accuracy.",
+    "teachers": [
+      "Sufyan ibn 'Uyaynah",
+      "Fudayl ibn 'Iyad",
+      "Waki' ibn al-Jarrah",
+      "Al-Darawardi"
+    ],
+    "students": [
+      "Imam al-Bukhari",
+      "Abu Zur'ah al-Razi",
+      "Abu Hatim al-Razi",
+      "Muhammad ibn Yahya al-Dhuhli"
+    ]
+  },
+  "sufyan-ibn-uyaynah": {
+    "id": "sufyan-ibn-uyaynah",
+    "name": "Sufyan ibn 'Uyaynah",
+    "arabicName": "سُفْيَانُ بْنُ عُيَيْنَةَ",
+    "fullName": "Abu Muhammad Sufyan ibn Uyaynah ibn Abi Imran al-Hilali al-Kufi thumma al-Makki",
+    "arabicFullName": "أبو محمد سفيان بن عيينة بن ميمون الهلالي الكوفي ثم المكي",
+    "kunya": "Abu Muhammad",
+    "generation": "Atba' al-Tabi'in",
+    "deathYearAH": "198 AH",
+    "deathYearCE": "814 CE",
+    "deathLocation": "Makkah al-Mukarramah",
+    "residence": [
+      "Kufa",
+      "Makkah"
+    ],
+    "grade": "Thiqah Thabt Imam Hujjah (Trustworthy, Firm, Master Authority)",
+    "ibnHajarGrade": "Thiqah Thabt Hafiz, leading scholar of the Hijaz alongside Malik",
+    "dhahabiGrade": "Shaikh al-Islam, one of the foundational pillars of Islamic scholarship",
+    "biography": "Born in Kufa in 107 AH and settled in Makkah. He attended lessons of the great Tabi'in at an astonishingly early age and met eighty Successors. Imam al-Shafi'i said: \"Were it not for Malik and Sufyan ibn 'Uyaynah, the knowledge of the Hijaz would have perished.\" He served as the primary hadith authority in the Holy Mosque of Makkah for over fifty years.",
+    "scholarlyContribution": "Transmitted thousands of traditions with supreme precision, linking Kufan and Hijazi hadith traditions.",
+    "teachers": [
+      "Amr ibn Dinar",
+      "Al-Zuhri",
+      "Yahya ibn Sa'id al-Ansari",
+      "Zayd ibn Aslam",
+      "Muhammad ibn al-Munkadir"
+    ],
+    "students": [
+      "Imam al-Shafi'i",
+      "Ahmad ibn Hanbal",
+      "Al-Humaydi",
+      "Ishaq ibn Rahawayh",
+      "Ali ibn al-Madini"
+    ]
+  },
+  "yahya-ibn-said-al-ansari": {
+    "id": "yahya-ibn-said-al-ansari",
+    "name": "Yahya ibn Sa'id al-Ansari",
+    "arabicName": "يَحْيَى بْنُ سَعِيدٍ الأَنْصَارِيُّ",
+    "fullName": "Abu Sa'id Yahya ibn Sa'id ibn Qays ibn Amr al-Ansari al-Najjari al-Madani",
+    "arabicFullName": "أبو سعيد يحيى بن سعيد بن قيس بن عمرو الأنصاري النجاري المدني",
+    "kunya": "Abu Sa'id",
+    "generation": "Sughra al-Tabi'in (Junior Successor)",
+    "deathYearAH": "143 AH",
+    "deathYearCE": "760 CE",
+    "deathLocation": "Hashimiyya (near Kufa)",
+    "residence": [
+      "Madinah",
+      "Iraq"
+    ],
+    "grade": "Thiqah Thabt (Trustworthy, Impeccable)",
+    "ibnHajarGrade": "Thiqah Thabt, distinguished judge of Madinah and subsequently Iraq",
+    "dhahabiGrade": "Imam, Hujjah, and one of the pivotal transmitters around whom hadiths revolve",
+    "biography": "An illustrious Ansar jurist and grandson of a Companion who fought at Badr. He served as the Chief Judge (Qadi) of Madinah during the Umayyad era. Renowned for his vast knowledge, judicial precision, and meticulous verification of texts. He is the central pivot through whom the hadith of intentions (\"Actions are judged by motives\") reached hundreds of scholars.",
+    "scholarlyContribution": "Central link in the transmission of Madinan sunnah and pivotal narrator for the school of Imam Malik.",
+    "teachers": [
+      "Anas ibn Malik",
+      "Sa'id ibn al-Musayyib",
+      "Muhammad ibn Ibrahim al-Taymi",
+      "Al-Qasim ibn Muhammad"
+    ],
+    "students": [
+      "Imam Malik",
+      "Sufyan al-Thawri",
+      "Sufyan ibn Uyaynah",
+      "Shu'bah",
+      "Hammad ibn Zayd"
+    ]
+  },
+  "muhammad-ibn-ibrahim": {
+    "id": "muhammad-ibn-ibrahim",
+    "name": "Muhammad ibn Ibrahim al-Taymi",
+    "arabicName": "مُحَمَّدُ بْنُ إِبْرَاهِيمَ التَّيْمِيُّ",
+    "fullName": "Abu Abd Allah Muhammad ibn Ibrahim ibn al-Harith ibn Khalid al-Taymi al-Qurashi",
+    "arabicFullName": "أبو عبد الله محمد بن إبراهيم بن الحارث بن خالد التيمي القرشي المدني",
+    "kunya": "Abu Abd Allah",
+    "generation": "Wusta al-Tabi'in (Successor)",
+    "deathYearAH": "120 AH",
+    "deathYearCE": "738 CE",
+    "deathLocation": "Madinah al-Munawwarah",
+    "residence": [
+      "Madinah"
+    ],
+    "grade": "Thiqah Thabt (Trustworthy, Reliable)",
+    "ibnHajarGrade": "Thiqah Thabt, prominent Madinan jurist",
+    "dhahabiGrade": "Eminent successor, scholar of Madinah, precise narrator",
+    "biography": "A notable Successor belonging to Banu Taym in Madinah. His father Ibrahim was among the early emigrants. He acquired deep legal erudition from senior Companions and early Successors, and is recognized for his singular fidelity in narrating the hadith of Intentions directly from Alqama ibn Waqqas.",
+    "scholarlyContribution": "Crucial sole transmitter connecting Alqama ibn Waqqas to Yahya ibn Sa'id al-Ansari in the foundational hadith of Islam.",
+    "teachers": [
+      "Alqama ibn Waqqas al-Laythi",
+      "Aisha",
+      "Abu Hurairah",
+      "Jabir ibn Abd Allah",
+      "Usamah ibn Zayd"
+    ],
+    "students": [
+      "Yahya ibn Sa'id al-Ansari",
+      "Hisham ibn Urwah",
+      "Musa ibn Uqbah",
+      "Ibn Shihab al-Zuhri"
+    ]
+  },
+  "alqama-ibn-waqqas": {
+    "id": "alqama-ibn-waqqas",
+    "name": "Alqama ibn Waqqas al-Laythi",
+    "arabicName": "عَلْقَمَةُ بْنُ وَقَّاصٍ اللَّيْثِيُّ",
+    "fullName": "Alqama ibn Waqqas ibn Muhsin ibn Kalada al-Laythi al-Madani",
+    "arabicFullName": "علقمة بن وقاص بن محصن بن كلدة الليثي المدني",
+    "kunya": "Abu Umar",
+    "generation": "Kibar al-Tabi'in (Senior Successor)",
+    "deathYearAH": "circa 80 AH",
+    "deathYearCE": "699 CE",
+    "deathLocation": "Madinah al-Munawwarah",
+    "residence": [
+      "Madinah"
+    ],
+    "grade": "Thiqah Thabt (Trustworthy, Senior Authority)",
+    "ibnHajarGrade": "Thiqah Thabt, senior Successor who witnessed the Khulafa al-Rashidin",
+    "dhahabiGrade": "One of the prominent early scholars of Madinah",
+    "biography": "A venerable Senior Successor who lived in Madinah during the golden era of the Rightly-Guided Caliphs. He was present in the Prophet's Mosque during the caliphate of 'Umar ibn al-Khattab and personally stood beneath the minbar when 'Umar delivered his momentous sermon stating: \"I heard the Messenger of Allah ﷺ say: Actions are but by intentions...\"",
+    "scholarlyContribution": "The sole link who received and preserved 'Umar ibn al-Khattab's narration of the intention hadith for succeeding generations.",
+    "teachers": [
+      "Umar ibn al-Khattab",
+      "Aisha",
+      "Ibn Abbas",
+      "Amr ibn al-As",
+      "Bilal ibn al-Harith"
+    ],
+    "students": [
+      "Muhammad ibn Ibrahim al-Taymi",
+      "Al-Zuhri",
+      "Amr ibn Dinar",
+      "His sons Amr and Abdullah"
+    ]
+  },
+  "malik-ibn-anas": {
+    "id": "malik-ibn-anas",
+    "name": "Imam Malik ibn Anas",
+    "arabicName": "الإِمَامُ مَالِكُ بْنُ أَنَسٍ",
+    "fullName": "Abu Abd Allah Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi al-Madani",
+    "arabicFullName": "أبو عبد الله مالك بن أنس بن مالك بن أبي عامر الأصبحي الحميري المدني",
+    "kunya": "Abu Abd Allah",
+    "generation": "Atba' al-Tabi'in",
+    "deathYearAH": "179 AH",
+    "deathYearCE": "795 CE",
+    "deathLocation": "Madinah al-Munawwarah (Al-Baqi')",
+    "residence": [
+      "Madinah"
+    ],
+    "grade": "Imam Dar al-Hijrah (Leader of the Abode of Migration)",
+    "ibnHajarGrade": "Head of the scholars of Madinah, model of piety, author of Al-Muwatta",
+    "dhahabiGrade": "Shaikh al-Islam, Master of jurists, the undisputed sun of scholars",
+    "biography": "Founder of the Maliki school of Islamic jurisprudence and author of Al-Muwatta', the earliest surviving codification of Islamic law and hadith. Malik was so revered in Madinah that he would never mount an animal in the city out of reverence for the earth that embraced the Messenger of Allah ﷺ. When narrating hadith, he bathed, applied perfume, and wore his finest garment.",
+    "scholarlyContribution": "Compiler of Al-Muwatta'; formulator of the principle of the 'Amal (living practice) of Ahl al-Madinah.",
+    "teachers": [
+      "Nafi' Mawla Ibn Umar",
+      "Ibn Shihab al-Zuhri",
+      "Rabi'at al-Ra'y",
+      "Ja'far al-Sadiq"
+    ],
+    "students": [
+      "Imam al-Shafi'i",
+      "Ibn al-Mubarak",
+      "Abdullah ibn Yusuf",
+      "Yahya ibn Yahya al-Laythi",
+      "Al-Qan'abi"
+    ]
+  },
+  "ibn-shihab-al-zuhri": {
+    "id": "ibn-shihab-al-zuhri",
+    "name": "Ibn Shihab al-Zuhri",
+    "arabicName": "ابْنُ شِهَابٍ الزُّهْرِيُّ",
+    "fullName": "Abu Bakr Muhammad ibn Muslim ibn Ubayd Allah ibn Shihab al-Zuhri al-Qurashi",
+    "arabicFullName": "أبو بكر محمد بن مسلم بن عبيد الله بن شهاب الزهري القرشي المدني",
+    "kunya": "Abu Bakr",
+    "generation": "Sughra al-Tabi'in (Junior Successor)",
+    "deathYearAH": "124 AH",
+    "deathYearCE": "742 CE",
+    "deathLocation": "Shaghab (between Hijaz & Sham)",
+    "residence": [
+      "Madinah",
+      "Damascus",
+      "Shaghab"
+    ],
+    "grade": "Imam al-Hafiz - Master of Sunnah and Hadith Preservation",
+    "ibnHajarGrade": "Faqih, Hafiz, universally acclaimed for encyclopedic retention; pioneer in official hadith codification",
+    "dhahabiGrade": "The great ocean of knowledge, central axis of the prophetic sunnah",
+    "biography": "Commissioned by the righteous Caliph Umar ibn Abd al-Aziz to lead the first formal state compilation of the Prophetic Hadith. He studied under the Seven Jurists of Madinah and retained narrations with legendary fidelity. Umar II declared: \"Adhere to Ibn Shihab, for you will not find anyone more knowledgeable in the past sunnah than him.\"",
+    "scholarlyContribution": "Pioneered systematic written recordation of hadith and transmission chains (isnad), preserving tens of thousands of narrations.",
+    "teachers": [
+      "Anas ibn Malik",
+      "Sa'id ibn al-Musayyib",
+      "Urwah ibn al-Zubayr",
+      "Salim ibn Abd Allah"
+    ],
+    "students": [
+      "Imam Malik",
+      "Sufyan ibn Uyaynah",
+      "Ma'mar ibn Rashid",
+      "Al-Awza'i",
+      "Ibn Jurayj"
+    ]
+  },
+  "urwah-ibn-al-zubayr": {
+    "id": "urwah-ibn-al-zubayr",
+    "name": "Urwah ibn al-Zubayr",
+    "arabicName": "عُرْوَةُ بْنُ الزُّبَيْرِ",
+    "fullName": "Abu Abd Allah Urwah ibn al-Zubayr ibn al-Awwam al-Qurashi al-Asadi",
+    "arabicFullName": "أبو عبد الله عروة بن الزبير بن العوام القرشي الأسدي المدني",
+    "kunya": "Abu Abd Allah",
+    "generation": "Kibar al-Tabi'in (Senior Successor)",
+    "deathYearAH": "94 AH",
+    "deathYearCE": "713 CE",
+    "deathLocation": "Fur' (near Madinah)",
+    "residence": [
+      "Madinah"
+    ],
+    "grade": "One of the Seven Great Jurists of Madinah (Al-Fuqaha' al-Sab'ah)",
+    "ibnHajarGrade": "Thiqah Thabt, ocean of knowledge, foremost transmitter of his maternal aunt Aisha",
+    "dhahabiGrade": "Imam, leader of the Successors, legendary for his patience and continuous prayer",
+    "biography": "Son of the illustrious Companion Al-Zubayr ibn al-Awwam and Asma' bint Abi Bakr, and nephew of Umm al-Mu'minin 'A'isha. He spent years in 'A'isha's home learning her hadiths, jurisprudence, and historical accounts directly. Renowned for his extraordinary endurance during an amputation, refusing wine for anesthesia and dedicating his mind to prayer.",
+    "scholarlyContribution": "Authored the earliest written accounts of the Prophetic Biography (Maghazi / Sirah) and transmitted a substantial portion of 'A'isha's legal corpus.",
+    "teachers": [
+      "Aisha bint Abi Bakr",
+      "Zubayr ibn al-Awwam",
+      "Asma' bint Abi Bakr",
+      "Ali ibn Abi Talib",
+      "Abu Hurairah"
+    ],
+    "students": [
+      "His son Hisham ibn Urwah",
+      "Ibn Shihab al-Zuhri",
+      "Abu al-Zinad",
+      "Sulayman ibn Yasar"
+    ]
+  },
+  "said-ibn-al-musayyib": {
+    "id": "said-ibn-al-musayyib",
+    "name": "Sa'id ibn al-Musayyib",
+    "arabicName": "سَعِيدُ بْنُ المُسَيَّبِ",
+    "fullName": "Abu Muhammad Sa'id ibn al-Musayyib ibn Hazn al-Qurashi al-Makhzumi",
+    "arabicFullName": "أبو محمد سعيد بن المسيب بن حزن القرشي المخزومي المدني",
+    "kunya": "Abu Muhammad",
+    "generation": "Kibar al-Tabi'in (Senior Successor)",
+    "deathYearAH": "94 AH",
+    "deathYearCE": "713 CE",
+    "deathLocation": "Madinah al-Munawwarah",
+    "residence": [
+      "Madinah"
+    ],
+    "grade": "Sayyid al-Tabi'in (Master of the Successors)",
+    "ibnHajarGrade": "Foremost scholar of Madinah, unanimously praised for knowledge, scrupulousness, and courage",
+    "dhahabiGrade": "The master of the Successors in knowledge and virtue without dispute",
+    "biography": "Universally hailed as \"Sayyid al-Tabi'in\" (The Master of the Successors). He married the daughter of Abu Hurairah to benefit from his knowledge and spent over fifty years attending the congregational prayers in the first row of the Prophet's Mosque. He was famed for his steadfast courage in the face of political tyranny.",
+    "scholarlyContribution": "The leading authority on the legal judgments and precedents of Umar ibn al-Khattab and senior Companions.",
+    "teachers": [
+      "Abu Hurairah",
+      "Umar ibn al-Khattab",
+      "Uthman ibn Affan",
+      "Ali ibn Abi Talib",
+      "Zayd ibn Thabit"
+    ],
+    "students": [
+      "Ibn Shihab al-Zuhri",
+      "Qatadah",
+      "Yahya ibn Sa'id al-Ansari",
+      "Amr ibn Dinar"
+    ]
+  },
+  "nafi-mawla-ibn-umar": {
+    "id": "nafi-mawla-ibn-umar",
+    "name": "Nafi' Mawla Ibn 'Umar",
+    "arabicName": "نَافِعٌ مَوْلَى ابْنِ عُمَرَ",
+    "fullName": "Abu Abd Allah Nafi' al-Madani Mawla Abd Allah ibn Umar",
+    "arabicFullName": "أبو عبد الله نافع المدني مولى عبد الله بن عمر بن الخطاب",
+    "kunya": "Abu Abd Allah",
+    "generation": "Wusta al-Tabi'in (Successor)",
+    "deathYearAH": "117 AH",
+    "deathYearCE": "735 CE",
+    "deathLocation": "Madinah al-Munawwarah",
+    "residence": [
+      "Madinah"
+    ],
+    "grade": "Thiqah Thabt (Cornerstone of the Golden Chain)",
+    "ibnHajarGrade": "Thiqah Thabt, pillar of Madinan hadith transmission",
+    "dhahabiGrade": "The great jurist and memorizer, undisputed pillar in the Golden Chain",
+    "biography": "The faithful freedman of 'Abdullah ibn 'Umar who accompanied him for thirty years at home and on journeys, memorizing his statements and legal rulings. Imam al-Bukhari famously declared that the most authentic chain of narration on earth is: \"Malik, from Nafi', from Ibn 'Umar\" (The Golden Chain).",
+    "scholarlyContribution": "Transmitted Ibn Umar's vast legal legacy and prophetic reports with unblemished accuracy.",
+    "teachers": [
+      "Abdullah ibn Umar",
+      "Aisha",
+      "Abu Hurairah",
+      "Rafi' ibn Khadij"
+    ],
+    "students": [
+      "Imam Malik",
+      "Ayyub al-Sakhtiyani",
+      "Ibn Jurayj",
+      "Ubayd Allah ibn Umar"
+    ]
+  },
+  "shuba-ibn-al-hajjaj": {
+    "id": "shuba-ibn-al-hajjaj",
+    "name": "Shu'bah ibn al-Hajjaj",
+    "arabicName": "شُعْبَةُ بْنُ الحَجَّاجِ",
+    "fullName": "Abu Bisht Shu'bah ibn al-Hajjaj ibn al-Ward al-Ataki al-Basri",
+    "arabicFullName": "أبو بسطام شعبة بن الحجاج العتكي الأزدي مولاهم الواسطي ثم البصري",
+    "kunya": "Abu Bishtam",
+    "generation": "Atba' al-Tabi'in",
+    "deathYearAH": "160 AH",
+    "deathYearCE": "776 CE",
+    "deathLocation": "Basra",
+    "residence": [
+      "Wasit",
+      "Basra"
+    ],
+    "grade": "Amir al-Mu'minin fil-Hadith (Prince of Hadith in Iraq)",
+    "ibnHajarGrade": "Thiqah Hafiz Mutqin, pioneer of narrator criticism (Al-Jarh wal-Ta'dil)",
+    "dhahabiGrade": "The master of Hadith critics and the benchmark of precision in Basra",
+    "biography": "Hailed by Sufyan al-Thawri as the \"Commander of the Faithful in Hadith.\" Shu'bah was the very first scholar in Iraq to critically examine narrators' reliability and memory, inaugurating the crucial Islamic science of Al-Jarh wal-Ta'dil. He was famed for traveling hundreds of miles across deserts merely to verify a single preposition or word.",
+    "scholarlyContribution": "Founded the rigorous scientific discipline of biographical narrator appraisal and chain verification.",
+    "teachers": [
+      "Qatadah",
+      "Amr ibn Murrah",
+      "Al-Hakam ibn Utaybah",
+      "Simak ibn Harb"
+    ],
+    "students": [
+      "Yahya ibn Sa'id al-Qattan",
+      "Ibn al-Mubarak",
+      "Waki' ibn al-Jarrah",
+      "Al-Tayalisi"
+    ]
+  },
+  "sufyan-al-thawri": {
+    "id": "sufyan-al-thawri",
+    "name": "Sufyan al-Thawri",
+    "arabicName": "سُفْيَانُ الثَّوْرِيُّ",
+    "fullName": "Abu Abd Allah Sufyan ibn Sa'id ibn Masruq al-Thawri al-Kufi",
+    "arabicFullName": "أبو عبد الله سفيان بن سعيد بن مسروق الثوري الكوفي",
+    "kunya": "Abu Abd Allah",
+    "generation": "Atba' al-Tabi'in",
+    "deathYearAH": "161 AH",
+    "deathYearCE": "778 CE",
+    "deathLocation": "Basra",
+    "residence": [
+      "Kufa",
+      "Makkah",
+      "Madinah",
+      "Basra"
+    ],
+    "grade": "Amir al-Mu'minin fil-Hadith & Great Ascetic",
+    "ibnHajarGrade": "Faqih, Hafiz, ascetic, universally regarded as a proof of God on earth in knowledge",
+    "dhahabiGrade": "Shaikh al-Islam, master of scholars in his era",
+    "biography": "One of the greatest scholars in Islamic history, revered for his immense knowledge of Hadith and Fiqh alongside profound asceticism (zuhd). When pressured by the Abbasid caliphate to accept the post of Chief Judge, he fled into exile rather than risk compromising his religious independence.",
+    "scholarlyContribution": "Formulated an early school of jurisprudence and collected core Kufan and Iraqi hadith transmissions.",
+    "teachers": [
+      "His father Sa'id al-Thawri",
+      "Al-A'mash",
+      "Mansur ibn al-Mu'tamir",
+      "Amr ibn Dinar"
+    ],
+    "students": [
+      "Ibn al-Mubarak",
+      "Yahya al-Qattan",
+      "Waki' ibn al-Jarrah",
+      "Shu'ayb ibn Harb"
+    ]
+  },
+  "abdullah-ibn-yusuf": {
+    "id": "abdullah-ibn-yusuf",
+    "name": "Abdullah ibn Yusuf al-Tunisi",
+    "arabicName": "عَبْدُ اللَّهِ بْنُ يُوسُفَ التِّنِّيسِيُّ",
+    "fullName": "Abu Muhammad Abd Allah ibn Yusuf al-Kila'i al-Dimashqi thumma al-Tunisi",
+    "arabicFullName": "أبو محمد عبد الله بن يوسف الكلاعي الدمشقي ثم التنيسي المصري",
+    "kunya": "Abu Muhammad",
+    "generation": "Kibar Atba' al-Tabi'in",
+    "deathYearAH": "218 AH",
+    "deathYearCE": "833 CE",
+    "deathLocation": "Egypt",
+    "residence": [
+      "Damascus",
+      "Tinnis (Egypt)"
+    ],
+    "grade": "Thiqah Mutqin (Foremost transmitter of Malik's Muwatta)",
+    "ibnHajarGrade": "Thiqah Mutqin, one of the most reliable transmitters of Malik",
+    "dhahabiGrade": "Imam al-Hafiz, preferred by Bukhari above all others for narrating from Malik",
+    "biography": "An outstanding transmitter of Syrian origin who settled in Egypt. Imam al-Bukhari considered him the most accurate and dependable narrator of Imam Malik's Muwatta', frequently choosing his transmissions for opening chapters of books in the Sahih.",
+    "scholarlyContribution": "Direct teacher of Imam al-Bukhari and master conduit of Malik's legal traditions into Egypt.",
+    "teachers": [
+      "Imam Malik ibn Anas",
+      "Al-Layth ibn Sa'd",
+      "Yahya ibn Hamzah"
+    ],
+    "students": [
+      "Imam al-Bukhari",
+      "Yahya ibn Ma'in",
+      "Abu Zur'ah al-Razi",
+      "Al-Dhuhli"
+    ]
+  },
+  "musaddad-ibn-musarhad": {
+    "id": "musaddad-ibn-musarhad",
+    "name": "Musaddad ibn Musarhad",
+    "arabicName": "مُسَدَّدُ بْنُ مُسَرْهَدٍ",
+    "fullName": "Abu al-Hasan Musaddad ibn Musarhad ibn Musarbal al-Asadi al-Basri",
+    "arabicFullName": "أبو الحسن مسدد بن مسرهد بن مسربل الأسدي البصري",
+    "kunya": "Abu al-Hasan",
+    "generation": "Kibar Atba' al-Tabi'in",
+    "deathYearAH": "228 AH",
+    "deathYearCE": "843 CE",
+    "deathLocation": "Basra",
+    "residence": [
+      "Basra"
+    ],
+    "grade": "Thiqah Hafiz Hujjah (Trustworthy Authority)",
+    "ibnHajarGrade": "Thiqah Hafiz, celebrated author of the large Musnad",
+    "dhahabiGrade": "Imam, master of Basra, resolute champion of the prophetic traditions",
+    "biography": "A primary teacher of Imam al-Bukhari and author of Musnad Musaddad. He was hailed by Yahya ibn Ma'in and Ahmad ibn Hanbal as an unshakeable mountain of reliability (\"Musaddad is truthful, reliable, and whatever he narrates is solid\").",
+    "scholarlyContribution": "Crucial teacher of Bukhari, transmitting Iraqi and Basran hadiths with immense precision.",
+    "teachers": [
+      "Yahya ibn Sa'id al-Qattan",
+      "Hammad ibn Zayd",
+      "Sufyan ibn Uyaynah",
+      "Fudayl ibn Iyad"
+    ],
+    "students": [
+      "Imam al-Bukhari",
+      "Abu Dawud al-Sijistani",
+      "Al-Tirmidhi",
+      "Abu Zur'ah"
+    ]
+  },
+  "qutaibah-ibn-said": {
+    "id": "qutaibah-ibn-said",
+    "name": "Qutaybah ibn Sa'id",
+    "arabicName": "قُتَيْبَةُ بْنُ سَعِيدٍ",
+    "fullName": "Abu Raja Qutaybah ibn Sa'id ibn Jamil al-Thaqafi al-Balkhi",
+    "arabicFullName": "أبو رجاء قتيبة بن سعيد بن جميل الثقفي مولاهم البلخي البغلاني",
+    "kunya": "Abu Raja",
+    "generation": "Kibar Atba' al-Tabi'in",
+    "deathYearAH": "240 AH",
+    "deathYearCE": "854 CE",
+    "deathLocation": "Baghlan (Khurasan)",
+    "residence": [
+      "Balkh",
+      "Makkah",
+      "Madinah",
+      "Baghdad",
+      "Egypt"
+    ],
+    "grade": "Thiqah Thabt (Renowned Global Traveler for Hadith)",
+    "ibnHajarGrade": "Thiqah Thabt, universally narrated from by all six canonical compilers (Al-Kutub al-Sittah)",
+    "dhahabiGrade": "Shaikh al-Islam, master of Khurasan, unassailable in integrity",
+    "biography": "Traveled the entire Muslim world twice, hearing hadiths from Malik, Al-Layth, Hammad ibn Zayd, and Sufyan. Remarkably, all six masters of the Kutub al-Sittah (Bukhari, Muslim, Abu Dawud, Tirmidhi, Nasa'i, Ibn Majah) narrated directly from him in their books.",
+    "scholarlyContribution": "A universal bridge connecting eastern Khurasan with the heartlands of Madinah, Makkah, and Iraq.",
+    "teachers": [
+      "Imam Malik",
+      "Al-Layth ibn Sa'd",
+      "Sufyan ibn Uyaynah",
+      "Bakr ibn Mudar"
+    ],
+    "students": [
+      "Imam al-Bukhari",
+      "Imam Muslim",
+      "Abu Dawud",
+      "Al-Tirmidhi",
+      "Al-Nasa'i"
+    ]
+  },
+  "abu-salih-al-samman": {
+    "id": "abu-salih-al-samman",
+    "name": "Abu Salih al-Samman",
+    "arabicName": "أَبُو صَالِحٍ السَّمَّانُ",
+    "fullName": "Dhakwan Abu Salih al-Samman al-Ghatafani al-Madani",
+    "arabicFullName": "ذكوان أبو صالح السمان الزيات الغطفاني مولاهم المدني",
+    "kunya": "Abu Salih",
+    "generation": "Wusta al-Tabi'in (Successor)",
+    "deathYearAH": "101 AH",
+    "deathYearCE": "719 CE",
+    "deathLocation": "Madinah al-Munawwarah",
+    "residence": [
+      "Madinah"
+    ],
+    "grade": "Thiqah Thabt (Premier Companion of Abu Hurairah)",
+    "ibnHajarGrade": "Thiqah Thabt, one of the most reliable and prolific students of Abu Hurairah",
+    "dhahabiGrade": "Imam, Hujjah, foremost narrator of traditions in Madinah",
+    "biography": "A venerable Successor of Madinah who traded in clarified butter (samn) and oil. He spent years in the company of Abu Hurairah, memorizing his narrations with unmatched fidelity. Imam al-A'mash and Suhayl ibn Abi Salih relied upon him heavily.",
+    "scholarlyContribution": "Primary conduit for hundreds of Abu Hurairah's prophetic narrations.",
+    "teachers": [
+      "Abu Hurairah",
+      "Aisha",
+      "Ibn Abbas",
+      "Mu'awiyah"
+    ],
+    "students": [
+      "Al-A'mash",
+      "Suhayl ibn Abi Salih",
+      "Zayd ibn Aslam",
+      "Bakir ibn al-Ashajj"
+    ]
+  },
+  "al-amash": {
+    "id": "al-amash",
+    "name": "Al-A'mash",
+    "arabicName": "الأَعْمَشُ",
+    "fullName": "Abu Muhammad Sulayman ibn Mihran al-Asadi al-Kahili al-Kufi",
+    "arabicFullName": "أبو محمد سليمان بن مهران الأسدي الكاهلي مولاهم الكوفي",
+    "kunya": "Abu Muhammad",
+    "generation": "Sughra al-Tabi'in (Junior Successor)",
+    "deathYearAH": "148 AH",
+    "deathYearCE": "765 CE",
+    "deathLocation": "Kufa",
+    "residence": [
+      "Kufa"
+    ],
+    "grade": "Thiqah Hafiz - Quranic Reader and Master of Kufan Hadith",
+    "ibnHajarGrade": "Thiqah Hafiz Arif bil-Qira'at, pillar of Kufan scholarship",
+    "dhahabiGrade": "Shaikh al-Islam, master of hadith memorizers and Quran reciters",
+    "biography": "Known as Al-A'mash due to his weak eyesight, he was endowed with extraordinary memory and sharp wit. He knew four thousand hadiths by heart with exact chains, and led the public recitation of the Qur'an in Kufa for over half a century.",
+    "scholarlyContribution": "Unsurpassed authority on Kufan chains and Qur'anic variants.",
+    "teachers": [
+      "Anas ibn Malik",
+      "Abu Salih al-Samman",
+      "Ibrahim al-Nakha'i",
+      "Zayd ibn Wahb"
+    ],
+    "students": [
+      "Sufyan al-Thawri",
+      "Shu'bah",
+      "Sufyan ibn Uyaynah",
+      "Waki' ibn al-Jarrah"
+    ]
+  },
+  "hisham-ibn-urwah": {
+    "id": "hisham-ibn-urwah",
+    "name": "Hisham ibn 'Urwah",
+    "arabicName": "هِشَامُ بْنُ عُرْوَةَ",
+    "fullName": "Abu al-Mundhir Hisham ibn Urwah ibn al-Zubayr al-Qurashi al-Asadi",
+    "arabicFullName": "أبو المنذر هشام بن عروة بن الزبير بن العوام القرشي الأسدي المدني",
+    "kunya": "Abu al-Mundhir",
+    "generation": "Atba' al-Tabi'in",
+    "deathYearAH": "146 AH",
+    "deathYearCE": "763 CE",
+    "deathLocation": "Baghdad",
+    "residence": [
+      "Madinah",
+      "Baghdad"
+    ],
+    "grade": "Thiqah Thabt Imam (Pillar of Urwah's Traditions)",
+    "ibnHajarGrade": "Thiqah Faqih Imam, main inheritor of the house of Zubayr's legal knowledge",
+    "dhahabiGrade": "Imam, Hujjah, Shaikh of Madinah and Baghdad",
+    "biography": "Son of the great jurist Urwah ibn al-Zubayr. He inherited his father's vast collection of books containing the hadiths of their maternal aunt 'A'isha. Later in life, he traveled to Iraq where major scholars like Abu Hanifah, Malik, and Shu'bah received narrations from him.",
+    "scholarlyContribution": "Essential narrator transmitting 'A'isha's household sunnah and legal verdicts to the wider Muslim world.",
+    "teachers": [
+      "His father Urwah ibn al-Zubayr",
+      "His wife Fatimah bint al-Mundhir",
+      "Ibn al-Munkadir"
+    ],
+    "students": [
+      "Imam Malik",
+      "Abu Hanifah",
+      "Sufyan al-Thawri",
+      "Sufyan ibn Uyaynah",
+      "Ibn al-Mubarak"
+    ]
+  },
+  "qatadah": {
+    "id": "qatadah",
+    "name": "Qatadah ibn Di'amah",
+    "arabicName": "قَتَادَةُ بْنُ دِعَامَةَ",
+    "fullName": "Abu al-Khattab Qatadah ibn Di'amah ibn Qatadah al-Sadusi al-Basri",
+    "arabicFullName": "أبو الخطاب قتادة بن دعامة بن قتادة السدوسي البصري",
+    "kunya": "Abu al-Khattab",
+    "generation": "Kibar al-Tabi'in (Senior Successor)",
+    "deathYearAH": "117 AH",
+    "deathYearCE": "735 CE",
+    "deathLocation": "Wasit",
+    "residence": [
+      "Basra"
+    ],
+    "grade": "Thiqah Thabt - Blind Polymath of Basra",
+    "ibnHajarGrade": "Thiqah Thabt, miracle of memory in Quranic exegesis and hadith",
+    "dhahabiGrade": "The exemplar of photographic retention; master of Arabic genealogy and Quranic tafsir",
+    "biography": "Born blind, Qatadah was blessed with a photographic auditory memory. He would listen to a scholar dictate an entire manuscript once and recite it verbatim without error. Ahmad ibn Hanbal called him \"the most learned person in Basra.\" He served as the primary bridge for the narrations of Anas ibn Malik in Iraq.",
+    "scholarlyContribution": "One of the foremost authorities in Quranic commentary (Tafsir), Arabic language, and hadith transmission.",
+    "teachers": [
+      "Anas ibn Malik",
+      "Sa'id ibn al-Musayyib",
+      "Al-Hasan al-Basri",
+      "Abu al-Tufayl"
+    ],
+    "students": [
+      "Shu'bah ibn al-Hajjaj",
+      "Sa'id ibn Abi Arubah",
+      "Hammam ibn Yahya",
+      "Ma'mar ibn Rashid"
+    ]
+  },
+  "al-hasan-al-basri": {
+    "id": "al-hasan-al-basri",
+    "name": "Al-Hasan al-Basri",
+    "arabicName": "الحَسَنُ البَصْرِيُّ",
+    "fullName": "Abu Sa'id al-Hasan ibn Abi al-Hasan Yasar al-Basri",
+    "arabicFullName": "أبو سعيد الحسن بن أبي الحسن يسار البصري",
+    "kunya": "Abu Sa'id",
+    "generation": "Kibar al-Tabi'in (Senior Successor)",
+    "deathYearAH": "110 AH",
+    "deathYearCE": "728 CE",
+    "deathLocation": "Basra",
+    "residence": [
+      "Madinah",
+      "Basra"
+    ],
+    "grade": "Imam, Sayyid al-Zuhhad (Leader of Ascetics and Preachers)",
+    "ibnHajarGrade": "Thiqah Faqih, famed for his eloquence, depth of heart, and spiritual mastery",
+    "dhahabiGrade": "Shaikh al-Islam, incomparable spiritual beacon of the early community",
+    "biography": "Born in Madinah during the caliphate of Umar ibn al-Khattab, who prayed for him: \"O Allah, grant him deep understanding in religion and make him beloved to people.\" Raised in proximity to the Mothers of the Believers, he moved to Basra and became the most revered preacher, jurist, and spiritual guide of his era.",
+    "scholarlyContribution": "Profound legacy in Islamic spiritual psychology, pulpit rhetoric, and ethical jurisprudence.",
+    "teachers": [
+      "Uthman ibn Affan",
+      "Ali ibn Abi Talib",
+      "Anas ibn Malik",
+      "Abdullah ibn Abbas",
+      "Jundub ibn Abdillah"
+    ],
+    "students": [
+      "Qatadah",
+      "Ayyub al-Sakhtiyani",
+      "Yunus ibn Ubayd",
+      "Ibn Sirin"
+    ]
+  },
+  "ali-ibn-al-madini": {
+    "id": "ali-ibn-al-madini",
+    "name": "'Ali ibn al-Madini",
+    "arabicName": "عَلِيُّ بْنُ المَدِينِيِّ",
+    "fullName": "Abu al-Hasan Ali ibn Abd Allah ibn Ja'far al-Madini al-Basri",
+    "arabicFullName": "أبو الحسن علي بن عبد الله بن جعفر بن نجيح السعدي مولاهم المديني البصري",
+    "kunya": "Abu al-Hasan",
+    "generation": "Kibar Atba' al-Tabi'in",
+    "deathYearAH": "234 AH",
+    "deathYearCE": "849 CE",
+    "deathLocation": "Samarra",
+    "residence": [
+      "Basra",
+      "Baghdad",
+      "Samarra"
+    ],
+    "grade": "Amir al-Mu'minin fil-Hadith - Master of Hidden Hadith Defects ('Ilal)",
+    "ibnHajarGrade": "Imam, foremost authority on hadith defects and narrator biographies",
+    "dhahabiGrade": "The master of all masters of 'Ilal (hidden defects), peer of Ahmad ibn Hanbal",
+    "biography": "Imam al-Bukhari's revered mentor. Al-Bukhari famously confessed: \"I never belittled myself in front of anyone except 'Ali ibn al-Madini.\" Renowned for his supreme mastery of hidden defects in hadith chains and intricate relations between narrators. Together with Ahmad ibn Hanbal, he safeguarded the science of hadith in Iraq.",
+    "scholarlyContribution": "Pioneered treatises on 'Ilal al-Hadith (hadith defects) and the names and biographies of narrators.",
+    "teachers": [
+      "His father Abd Allah ibn Ja'far",
+      "Sufyan ibn Uyaynah",
+      "Yahya al-Qattan",
+      "Hammad ibn Zayd"
+    ],
+    "students": [
+      "Imam al-Bukhari",
+      "Abu Dawud",
+      "Abu Hatim al-Razi",
+      "Al-Dhuhli"
+    ]
+  },
+  "muhammad-ibn-al-muthanna": {
+    "id": "muhammad-ibn-al-muthanna",
+    "name": "Muhammad ibn al-Muthanna",
+    "arabicName": "مُحَمَّدُ بْنُ المُثَنَّى",
+    "fullName": "Abu Musa Muhammad ibn al-Muthanna ibn Ubayd al-Anazi al-Basri (Known as Al-Zaman)",
+    "arabicFullName": "أبو موسى محمد بن المثنى بن عبيد العنزي البصري المعروف بالزمن",
+    "kunya": "Abu Musa",
+    "generation": "Kibar Atba' al-Tabi'in",
+    "deathYearAH": "252 AH",
+    "deathYearCE": "866 CE",
+    "deathLocation": "Basra",
+    "residence": [
+      "Basra"
+    ],
+    "grade": "Thiqah Thabt (Celebrated Teacher of Canonical Authors)",
+    "ibnHajarGrade": "Thiqah Thabt, teacher of all six major hadith compilers",
+    "dhahabiGrade": "Imam al-Hafiz, master of Basra, universally loved for his reliability",
+    "biography": "A prominent Basran traditionist known by the moniker \"Al-Zaman.\" Along with Bundar (Muhammad ibn Bashshar), he taught all six compilers of the Kutub al-Sittah. Imam al-Bukhari narrated hundreds of hadiths directly from him.",
+    "scholarlyContribution": "Prolific teacher of the 3rd century canonical hadith authors; preserved Basran traditions intact.",
+    "teachers": [
+      "Yahya ibn Sa'id al-Qattan",
+      "Ibn Mahdi",
+      "Yazid ibn Zuray'",
+      "Mu'adh ibn Mu'adh"
+    ],
+    "students": [
+      "Imam al-Bukhari",
+      "Imam Muslim",
+      "Abu Dawud",
+      "Al-Tirmidhi",
+      "Al-Nasa'i",
+      "Ibn Majah"
+    ]
+  },
+  "yahya-ibn-bukayr": {
+    "id": "yahya-ibn-bukayr",
+    "name": "Yahya ibn Bukayr",
+    "arabicName": "يَحْيَى بْنُ بُكَيْرٍ",
+    "fullName": "Abu Abd Allah Yahya ibn Abd Allah ibn Bukayr al-Makhzumi al-Misri",
+    "arabicFullName": "أبو عبد الله يحيى بن عبد الله بن بكير المخزومي مولاهم المصري",
+    "kunya": "Abu Abd Allah",
+    "generation": "Kibar Atba' al-Tabi'in",
+    "deathYearAH": "231 AH",
+    "deathYearCE": "845 CE",
+    "deathLocation": "Egypt",
+    "residence": [
+      "Egypt"
+    ],
+    "grade": "Thiqah (Renowned Egyptian Authority)",
+    "ibnHajarGrade": "Thiqah, especially precise in narrating from Al-Layth ibn Sa'd and Malik",
+    "dhahabiGrade": "Imam al-Hafiz, venerable scholar of Egypt and teacher of Bukhari",
+    "biography": "A leading Egyptian muhaddith who served as a primary conduit for the knowledge of Al-Layth ibn Sa'd and Imam Malik. Imam al-Bukhari relied upon his manuscripts extensively, particularly when recording narrations detailing early prophetic history and the beginning of Revelation.",
+    "scholarlyContribution": "Direct teacher of Bukhari, preserving Egyptian and Hijazi manuscripts of early hadith.",
+    "teachers": [
+      "Malik ibn Anas",
+      "Al-Layth ibn Sa'd",
+      "Bakr ibn Mudar",
+      "Ibn Lahi'ah"
+    ],
+    "students": [
+      "Imam al-Bukhari",
+      "Yahya ibn Ma'in",
+      "Abu Zur'ah al-Razi",
+      "Al-Dhuhli"
+    ]
+  },
+  "abdullah-ibn-abbas": {
+    "id": "abdullah-ibn-abbas",
+    "name": "'Abdullah ibn 'Abbas",
+    "arabicName": "عَبْدُ اللَّهِ بْنُ عَبَّاسٍ",
+    "fullName": "Abu al-Abbas Abd Allah ibn al-Abbas ibn Abd al-Muttalib al-Qurashi al-Hashimi",
+    "arabicFullName": "أبو العباس عبد الله بن عباس بن عبد المطلب القرشي الهاشمي رضي الله عنهما",
+    "kunya": "Abu al-Abbas",
+    "generation": "Sahabi (Companion)",
+    "deathYearAH": "68 AH",
+    "deathYearCE": "687 CE",
+    "deathLocation": "Ta'if",
+    "residence": [
+      "Makkah",
+      "Madinah",
+      "Basra",
+      "Ta'if"
+    ],
+    "grade": "Hibr al-Ummah (The Scholar of the Nation) & Turjuman al-Qur'an",
+    "ibnHajarGrade": "The ocean of Quranic exegesis, for whom the Prophet ﷺ supplicated for wisdom",
+    "dhahabiGrade": "The Grand Master of Islamic exegesis, cousin of the Messenger of Allah ﷺ",
+    "biography": "The paternal cousin of the Prophet Muhammad ﷺ. The Prophet embraced him in childhood and prayed: \"O Allah, grant him deep comprehension in the religion and teach him interpretation of the Book.\" He became universally recognized by senior Companions as the preeminent authority in Quranic commentary (Tafsir), legal reasoning, and Arabic eloquence.",
+    "scholarlyContribution": "Narrated 1,660 hadiths; laid the foundational principles of systematic Quranic exegesis (Tafsir al-Qur'an).",
+    "teachers": [
+      "Prophet Muhammad ﷺ",
+      "Abu Bakr al-Siddiq",
+      "Umar ibn al-Khattab",
+      "Ali ibn Abi Talib"
+    ],
+    "students": [
+      "Sa'id ibn Jubayr",
+      "Mujahid ibn Jabr",
+      "Ikrimah",
+      "Ata ibn Abi Rabah",
+      "Tawus"
+    ]
+  },
+  "abu-said-al-khudri": {
+    "id": "abu-said-al-khudri",
+    "name": "Abu Sa'id al-Khudri",
+    "arabicName": "أَبُو سَعِيدٍ الخُدْرِيُّ",
+    "fullName": "Sa'd ibn Malik ibn Sinan al-Ansari al-Khazraji al-Khudri",
+    "arabicFullName": "سعد بن مالك بن سنان الأنصاري الخزرجي الخدري رضي الله عنه",
+    "kunya": "Abu Sa'id",
+    "generation": "Sahabi (Companion)",
+    "deathYearAH": "74 AH",
+    "deathYearCE": "693 CE",
+    "deathLocation": "Madinah al-Munawwarah (Al-Baqi')",
+    "residence": [
+      "Madinah"
+    ],
+    "grade": "Sahabi 'Adl - One of the Prolific Seven Narrators",
+    "ibnHajarGrade": "Eminent Companion who participated in twelve expeditions with the Prophet ﷺ",
+    "dhahabiGrade": "Imam, Mufti of Madinah, prominent young companion of profound asceticism and piety",
+    "biography": "An illustrious Ansar Companion from Banu Khudra in Madinah. Presented by his father to fight at Uhud at age thirteen, he was judged too young, but subsequently accompanied the Prophet ﷺ in twelve major military campaigns. He was famed for his scrupulous piety, patient endurance during financial distress, and devotion to teaching hadiths in the Prophet's Mosque.",
+    "scholarlyContribution": "Narrated 1,170 hadiths, ranking among the top seven most prolific narrators of the Sunnah.",
+    "teachers": [
+      "Prophet Muhammad ﷺ",
+      "Abu Bakr al-Siddiq",
+      "Umar ibn al-Khattab",
+      "Zayd ibn Thabit"
+    ],
+    "students": [
+      "Sa'id ibn al-Musayyib",
+      "Ata ibn Yasar",
+      "Abu Salih al-Samman",
+      "Mujahid"
+    ]
+  },
+  "muadh-ibn-jabal": {
+    "id": "muadh-ibn-jabal",
+    "name": "Mu'adh ibn Jabal",
+    "arabicName": "مُعَاذُ بْنُ جَبَلٍ",
+    "fullName": "Abu Abd al-Rahman Mu'adh ibn Jabal ibn Amr al-Ansari al-Khazraji",
+    "arabicFullName": "أبو عبد الرحمن معاذ بن جبل بن عمرو الأنصاري الخزرجي رضي الله عنه",
+    "kunya": "Abu Abd al-Rahman",
+    "generation": "Sahabi (Companion)",
+    "deathYearAH": "18 AH",
+    "deathYearCE": "639 CE",
+    "deathLocation": "Amwas (Jordan/Palestine)",
+    "residence": [
+      "Madinah",
+      "Yemen",
+      "Sham"
+    ],
+    "grade": "Sahabi 'Adl - Foremost in Knowledge of the Halal and Haram",
+    "ibnHajarGrade": "The leader of the scholars on the Day of Resurrection, sent by the Prophet ﷺ as judge to Yemen",
+    "dhahabiGrade": "Imam al-Kabir, peerless in jurisprudence and moral nobility",
+    "biography": "Pledged allegiance at the Second Aqabah pledge as a youth. The Prophet ﷺ declared: \"The most knowledgeable of my nation regarding the lawful and the unlawful is Mu'adh ibn Jabal.\" He was commissioned by the Prophet ﷺ as supreme judge, teacher, and administrator to Yemen, establishing the principles of judicial ijtihad.",
+    "scholarlyContribution": "Pioneered legal reasoning (ijtihad) and structured provincial Islamic governance and education.",
+    "teachers": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "students": [
+      "Ibn Abbas",
+      "Ibn Umar",
+      "Abu Musa al-Ash'ari",
+      "Abdullah ibn Mas'ud"
+    ]
+  },
+  "adam-ibn-abi-iyas": {
+    "id": "adam-ibn-abi-iyas",
+    "name": "Adam ibn Abi Iyas",
+    "arabicName": "آدَمُ بْنُ أَبِي إِيَاسٍ",
+    "fullName": "Abu al-Hasan Adam ibn Abi Iyas Nasr al-Asqalani",
+    "arabicFullName": "أبو الحسن آدم بن أبي إياس نصر العسقلاني الخراساني الأصل",
+    "kunya": "Abu al-Hasan",
+    "generation": "Kibar Atba' al-Tabi'in",
+    "deathYearAH": "220 AH",
+    "deathYearCE": "835 CE",
+    "deathLocation": "Asqalan (Palestine)",
+    "residence": [
+      "Baghdad",
+      "Asqalan"
+    ],
+    "grade": "Thiqah Thabt Zahid (Venerable Teacher of Bukhari)",
+    "ibnHajarGrade": "Thiqah Thabt Abid, one of the premier scholars of the borderlands of the Levant",
+    "dhahabiGrade": "Imam al-Hafiz, ascetic leader and teacher of Imam al-Bukhari",
+    "biography": "A venerable scholar of Khurasani descent who settled in the frontier city of Asqalan in Palestine. Known for immense asceticism, Quranic contemplation, and weeping in prayers. Imam al-Bukhari heard thousands of hadiths from him, relying upon him for foundational traditions in belief and manners.",
+    "scholarlyContribution": "Direct teacher of Imam al-Bukhari; major authority on the transmissions of Shu'bah ibn al-Hajjaj.",
+    "teachers": [
+      "Shu'bah ibn al-Hajjaj",
+      "Al-Layth ibn Sa'd",
+      "Ibn Abi Dhi'b",
+      "Hammad ibn Salamah"
+    ],
+    "students": [
+      "Imam al-Bukhari",
+      "Abu Hatim al-Razi",
+      "Al-Darimi",
+      "Muhammad ibn Yahya al-Dhuhli"
+    ]
+  }
+}

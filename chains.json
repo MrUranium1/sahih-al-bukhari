@@ -1,0 +1,1391 @@
+{
+  "1": [
+    {
+      "narratorId": "al-bukhari",
+      "order": 1,
+      "roleTitle": "Compiler & Author",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us",
+      "narrationNote": "Recorded in his Sahih after istikharah prayer."
+    },
+    {
+      "narratorId": "al-humaydi",
+      "order": 2,
+      "roleTitle": "Direct Teacher",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "sufyan-ibn-uyaynah",
+      "order": 3,
+      "roleTitle": "Successor's Successor (Atba')",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "yahya-ibn-said-al-ansari",
+      "order": 4,
+      "roleTitle": "Successor (Tabi'i)",
+      "transmissionFormulaAr": "أَخْبَرَنِي",
+      "transmissionFormulaEn": "Informed me"
+    },
+    {
+      "narratorId": "muhammad-ibn-ibrahim",
+      "order": 5,
+      "roleTitle": "Successor (Tabi'i)",
+      "transmissionFormulaAr": "سَمِعَ",
+      "transmissionFormulaEn": "Heard"
+    },
+    {
+      "narratorId": "alqama-ibn-waqqas",
+      "order": 6,
+      "roleTitle": "Senior Successor (Kibar al-Tabi'in)",
+      "transmissionFormulaAr": "سَمِعْتُ",
+      "transmissionFormulaEn": "I heard"
+    },
+    {
+      "narratorId": "umar-ibn-al-khattab",
+      "order": 7,
+      "roleTitle": "Companion (Sahabi)",
+      "transmissionFormulaAr": "سَمِعْتُ رَسُولَ اللَّهِ",
+      "transmissionFormulaEn": "I heard the Messenger of Allah"
+    },
+    {
+      "narratorId": "prophet-muhammad",
+      "order": 8,
+      "roleTitle": "Messenger of Allah ﷺ",
+      "transmissionFormulaAr": "يَقُولُ",
+      "transmissionFormulaEn": "Saying"
+    }
+  ],
+  "2": [
+    {
+      "narratorId": "al-bukhari",
+      "order": 1,
+      "roleTitle": "Compiler & Author",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "abdullah-ibn-yusuf",
+      "order": 2,
+      "roleTitle": "Direct Teacher",
+      "transmissionFormulaAr": "أَخْبَرَنَا",
+      "transmissionFormulaEn": "Informed us"
+    },
+    {
+      "narratorId": "malik-ibn-anas",
+      "order": 3,
+      "roleTitle": "Successor's Successor (Atba')",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "hisham-ibn-urwah",
+      "order": 4,
+      "roleTitle": "Successor (Tabi'i)",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "urwah-ibn-al-zubayr",
+      "order": 5,
+      "roleTitle": "Senior Successor (Kibar al-Tabi'in)",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "aisha-bint-abi-bakr",
+      "order": 6,
+      "roleTitle": "Companion (Sahabi)",
+      "transmissionFormulaAr": "أَنَّ",
+      "transmissionFormulaEn": "Narrating that"
+    },
+    {
+      "narratorId": "prophet-muhammad",
+      "order": 7,
+      "roleTitle": "Messenger of Allah ﷺ",
+      "transmissionFormulaAr": "فَقَالَ",
+      "transmissionFormulaEn": "He said"
+    }
+  ],
+  "6": [
+    {
+      "narratorId": "al-bukhari",
+      "order": 1,
+      "roleTitle": "Compiler & Author",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "ali-ibn-al-madini",
+      "order": 2,
+      "roleTitle": "Direct Teacher",
+      "transmissionFormulaAr": "أَخْبَرَنَا",
+      "transmissionFormulaEn": "Informed us"
+    },
+    {
+      "narratorId": "sufyan-ibn-uyaynah",
+      "order": 3,
+      "roleTitle": "Successor's Successor (Atba')",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "ibn-shihab-al-zuhri",
+      "order": 4,
+      "roleTitle": "Successor (Tabi'i)",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "abdullah-ibn-abbas",
+      "order": 5,
+      "roleTitle": "Companion (Sahabi)",
+      "transmissionFormulaAr": "قَالَ",
+      "transmissionFormulaEn": "Narrated"
+    },
+    {
+      "narratorId": "prophet-muhammad",
+      "order": 6,
+      "roleTitle": "Messenger of Allah ﷺ",
+      "transmissionFormulaAr": "كَانَ",
+      "transmissionFormulaEn": "Character of"
+    }
+  ],
+  "8": [
+    {
+      "narratorId": "al-bukhari",
+      "order": 1,
+      "roleTitle": "Compiler & Author",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "abdullah-ibn-yusuf",
+      "order": 2,
+      "roleTitle": "Direct Teacher",
+      "transmissionFormulaAr": "أَخْبَرَنَا",
+      "transmissionFormulaEn": "Informed us"
+    },
+    {
+      "narratorId": "malik-ibn-anas",
+      "order": 3,
+      "roleTitle": "Successor's Successor (Atba')",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "nafi-mawla-ibn-umar",
+      "order": 4,
+      "roleTitle": "Successor (Tabi'i)",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "abdullah-ibn-umar",
+      "order": 5,
+      "roleTitle": "Companion (Sahabi)",
+      "transmissionFormulaAr": "أَنَّ رَسُولَ اللَّهِ",
+      "transmissionFormulaEn": "That the Messenger of Allah"
+    },
+    {
+      "narratorId": "prophet-muhammad",
+      "order": 6,
+      "roleTitle": "Messenger of Allah ﷺ",
+      "transmissionFormulaAr": "قَالَ",
+      "transmissionFormulaEn": "Said"
+    }
+  ],
+  "10": [
+    {
+      "narratorId": "al-bukhari",
+      "order": 1,
+      "roleTitle": "Compiler & Author",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "qutaibah-ibn-said",
+      "order": 2,
+      "roleTitle": "Direct Teacher",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "sufyan-al-thawri",
+      "order": 3,
+      "roleTitle": "Successor's Successor (Atba')",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "al-amash",
+      "order": 4,
+      "roleTitle": "Successor (Tabi'i)",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "abu-salih-al-samman",
+      "order": 5,
+      "roleTitle": "Successor (Tabi'i)",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "abu-hurairah",
+      "order": 6,
+      "roleTitle": "Companion (Sahabi)",
+      "transmissionFormulaAr": "عَنْ رَسُولِ اللَّهِ",
+      "transmissionFormulaEn": "From the Messenger of Allah"
+    },
+    {
+      "narratorId": "prophet-muhammad",
+      "order": 7,
+      "roleTitle": "Messenger of Allah ﷺ",
+      "transmissionFormulaAr": "قَالَ",
+      "transmissionFormulaEn": "Said"
+    }
+  ],
+  "13": [
+    {
+      "narratorId": "al-bukhari",
+      "order": 1,
+      "roleTitle": "Compiler & Author",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "musaddad-ibn-musarhad",
+      "order": 2,
+      "roleTitle": "Direct Teacher",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "shuba-ibn-al-hajjaj",
+      "order": 3,
+      "roleTitle": "Successor's Successor (Atba')",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "qatadah",
+      "order": 4,
+      "roleTitle": "Senior Successor (Kibar al-Tabi'in)",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "anas-ibn-malik",
+      "order": 5,
+      "roleTitle": "Companion (Sahabi)",
+      "transmissionFormulaAr": "عَنِ النَّبِيِّ",
+      "transmissionFormulaEn": "From the Prophet"
+    },
+    {
+      "narratorId": "prophet-muhammad",
+      "order": 6,
+      "roleTitle": "Messenger of Allah ﷺ",
+      "transmissionFormulaAr": "قَالَ",
+      "transmissionFormulaEn": "Said"
+    }
+  ],
+  "24": [
+    {
+      "narratorId": "al-bukhari",
+      "order": 1,
+      "roleTitle": "Compiler & Author",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "abdullah-ibn-yusuf",
+      "order": 2,
+      "roleTitle": "Direct Teacher",
+      "transmissionFormulaAr": "أَخْبَرَنَا",
+      "transmissionFormulaEn": "Informed us"
+    },
+    {
+      "narratorId": "malik-ibn-anas",
+      "order": 3,
+      "roleTitle": "Successor's Successor (Atba')",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "ibn-shihab-al-zuhri",
+      "order": 4,
+      "roleTitle": "Successor (Tabi'i)",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "abdullah-ibn-umar",
+      "order": 5,
+      "roleTitle": "Companion (Sahabi)",
+      "transmissionFormulaAr": "عَنْ أَبِيهِ",
+      "transmissionFormulaEn": "From his father"
+    },
+    {
+      "narratorId": "prophet-muhammad",
+      "order": 6,
+      "roleTitle": "Messenger of Allah ﷺ",
+      "transmissionFormulaAr": "فَقَالَ",
+      "transmissionFormulaEn": "Said"
+    }
+  ],
+  "69": [
+    {
+      "narratorId": "al-bukhari",
+      "order": 1,
+      "roleTitle": "Compiler & Author",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "muhammad-ibn-al-muthanna",
+      "order": 2,
+      "roleTitle": "Direct Teacher",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "shuba-ibn-al-hajjaj",
+      "order": 3,
+      "roleTitle": "Successor's Successor (Atba')",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "qatadah",
+      "order": 4,
+      "roleTitle": "Senior Successor (Kibar al-Tabi'in)",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "anas-ibn-malik",
+      "order": 5,
+      "roleTitle": "Companion (Sahabi)",
+      "transmissionFormulaAr": "عَنِ النَّبِيِّ",
+      "transmissionFormulaEn": "From the Prophet"
+    },
+    {
+      "narratorId": "prophet-muhammad",
+      "order": 6,
+      "roleTitle": "Messenger of Allah ﷺ",
+      "transmissionFormulaAr": "قَالَ",
+      "transmissionFormulaEn": "Said"
+    }
+  ],
+  "71": [
+    {
+      "narratorId": "al-bukhari",
+      "order": 1,
+      "roleTitle": "Compiler & Author",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "ali-ibn-al-madini",
+      "order": 2,
+      "roleTitle": "Direct Teacher & Mentor",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "sufyan-ibn-uyaynah",
+      "order": 3,
+      "roleTitle": "Successor's Successor (Atba')",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "ibn-shihab-al-zuhri",
+      "order": 4,
+      "roleTitle": "Junior Successor (Tabi'i)",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "said-ibn-al-musayyib",
+      "order": 5,
+      "roleTitle": "Senior Successor (Kibar al-Tabi'in)",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "abu-hurairah",
+      "order": 6,
+      "roleTitle": "Companion (Sahabi)",
+      "transmissionFormulaAr": "عَنِ النَّبِيِّ",
+      "transmissionFormulaEn": "From the Prophet"
+    },
+    {
+      "narratorId": "prophet-muhammad",
+      "order": 7,
+      "roleTitle": "Messenger of Allah ﷺ",
+      "transmissionFormulaAr": "قَالَ",
+      "transmissionFormulaEn": "Said"
+    }
+  ],
+  "100": [
+    {
+      "narratorId": "al-bukhari",
+      "order": 1,
+      "roleTitle": "Compiler & Author",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "abdullah-ibn-yusuf",
+      "order": 2,
+      "roleTitle": "Direct Teacher",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "malik-ibn-anas",
+      "order": 3,
+      "roleTitle": "Successor's Successor (Atba')",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "hisham-ibn-urwah",
+      "order": 4,
+      "roleTitle": "Successor (Tabi'i)",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "urwah-ibn-al-zubayr",
+      "order": 5,
+      "roleTitle": "Senior Successor (Kibar al-Tabi'in)",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "prophet-muhammad",
+      "order": 6,
+      "roleTitle": "Messenger of Allah ﷺ",
+      "transmissionFormulaAr": "يَقُولُ",
+      "transmissionFormulaEn": "Saying"
+    }
+  ],
+  "135": [
+    {
+      "narratorId": "al-bukhari",
+      "order": 1,
+      "roleTitle": "Compiler & Author",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "musaddad-ibn-musarhad",
+      "order": 2,
+      "roleTitle": "Direct Teacher",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "sufyan-al-thawri",
+      "order": 3,
+      "roleTitle": "Successor's Successor (Atba')",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "abu-salih-al-samman",
+      "order": 4,
+      "roleTitle": "Successor (Tabi'i)",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "abu-hurairah",
+      "order": 5,
+      "roleTitle": "Companion (Sahabi)",
+      "transmissionFormulaAr": "قَالَ: قَالَ رَسُولُ اللَّهِ",
+      "transmissionFormulaEn": "Said: The Messenger of Allah said"
+    },
+    {
+      "narratorId": "prophet-muhammad",
+      "order": 6,
+      "roleTitle": "Messenger of Allah ﷺ",
+      "transmissionFormulaAr": "قَالَ",
+      "transmissionFormulaEn": "Said"
+    }
+  ],
+  "528": [
+    {
+      "narratorId": "al-bukhari",
+      "order": 1,
+      "roleTitle": "Compiler & Author",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "qutaibah-ibn-said",
+      "order": 2,
+      "roleTitle": "Direct Teacher",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "malik-ibn-anas",
+      "order": 3,
+      "roleTitle": "Successor's Successor (Atba')",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "abu-salih-al-samman",
+      "order": 4,
+      "roleTitle": "Successor (Tabi'i)",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "abu-hurairah",
+      "order": 5,
+      "roleTitle": "Companion (Sahabi)",
+      "transmissionFormulaAr": "سَمِعَ رَسُولَ اللَّهِ",
+      "transmissionFormulaEn": "Heard the Messenger of Allah"
+    },
+    {
+      "narratorId": "prophet-muhammad",
+      "order": 6,
+      "roleTitle": "Messenger of Allah ﷺ",
+      "transmissionFormulaAr": "يَقُولُ",
+      "transmissionFormulaEn": "Saying"
+    }
+  ],
+  "631": [
+    {
+      "narratorId": "al-bukhari",
+      "order": 1,
+      "roleTitle": "Compiler & Author",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "muhammad-ibn-al-muthanna",
+      "order": 2,
+      "roleTitle": "Direct Teacher",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "shuba-ibn-al-hajjaj",
+      "order": 3,
+      "roleTitle": "Successor's Successor (Atba')",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "anas-ibn-malik",
+      "order": 4,
+      "roleTitle": "Companion (Sahabi)",
+      "transmissionFormulaAr": "قَالَ",
+      "transmissionFormulaEn": "Narrated"
+    },
+    {
+      "narratorId": "prophet-muhammad",
+      "order": 5,
+      "roleTitle": "Messenger of Allah ﷺ",
+      "transmissionFormulaAr": "قَالَ",
+      "transmissionFormulaEn": "Said"
+    }
+  ],
+  "877": [
+    {
+      "narratorId": "al-bukhari",
+      "order": 1,
+      "roleTitle": "Compiler & Author",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "abdullah-ibn-yusuf",
+      "order": 2,
+      "roleTitle": "Direct Teacher",
+      "transmissionFormulaAr": "أَخْبَرَنَا",
+      "transmissionFormulaEn": "Informed us"
+    },
+    {
+      "narratorId": "malik-ibn-anas",
+      "order": 3,
+      "roleTitle": "Successor's Successor (Atba')",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "abu-said-al-khudri",
+      "order": 4,
+      "roleTitle": "Companion (Sahabi)",
+      "transmissionFormulaAr": "أَنَّ رَسُولَ اللَّهِ",
+      "transmissionFormulaEn": "That the Messenger of Allah"
+    },
+    {
+      "narratorId": "prophet-muhammad",
+      "order": 5,
+      "roleTitle": "Messenger of Allah ﷺ",
+      "transmissionFormulaAr": "قَالَ",
+      "transmissionFormulaEn": "Said"
+    }
+  ],
+  "1405": [
+    {
+      "narratorId": "al-bukhari",
+      "order": 1,
+      "roleTitle": "Compiler & Author",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "qutaibah-ibn-said",
+      "order": 2,
+      "roleTitle": "Direct Teacher",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "malik-ibn-anas",
+      "order": 3,
+      "roleTitle": "Successor's Successor (Atba')",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "abu-hurairah",
+      "order": 4,
+      "roleTitle": "Companion (Sahabi)",
+      "transmissionFormulaAr": "أَنَّ رَسُولَ اللَّهِ",
+      "transmissionFormulaEn": "That the Messenger of Allah"
+    },
+    {
+      "narratorId": "prophet-muhammad",
+      "order": 5,
+      "roleTitle": "Messenger of Allah ﷺ",
+      "transmissionFormulaAr": "قَالَ",
+      "transmissionFormulaEn": "Said"
+    }
+  ],
+  "1521": [
+    {
+      "narratorId": "al-bukhari",
+      "order": 1,
+      "roleTitle": "Compiler & Author",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "ali-ibn-al-madini",
+      "order": 2,
+      "roleTitle": "Direct Teacher",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "sufyan-ibn-uyaynah",
+      "order": 3,
+      "roleTitle": "Successor's Successor (Atba')",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "ibn-shihab-al-zuhri",
+      "order": 4,
+      "roleTitle": "Successor (Tabi'i)",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "abu-hurairah",
+      "order": 5,
+      "roleTitle": "Companion (Sahabi)",
+      "transmissionFormulaAr": "سَمِعْتُ النَّبِيَّ",
+      "transmissionFormulaEn": "I heard the Prophet"
+    },
+    {
+      "narratorId": "prophet-muhammad",
+      "order": 6,
+      "roleTitle": "Messenger of Allah ﷺ",
+      "transmissionFormulaAr": "يَقُولُ",
+      "transmissionFormulaEn": "Saying"
+    }
+  ],
+  "1894": [
+    {
+      "narratorId": "al-bukhari",
+      "order": 1,
+      "roleTitle": "Compiler & Author",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "ali-ibn-al-madini",
+      "order": 2,
+      "roleTitle": "Direct Teacher",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "sufyan-ibn-uyaynah",
+      "order": 3,
+      "roleTitle": "Successor's Successor (Atba')",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "ibn-shihab-al-zuhri",
+      "order": 4,
+      "roleTitle": "Successor (Tabi'i)",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "abu-hurairah",
+      "order": 5,
+      "roleTitle": "Companion (Sahabi)",
+      "transmissionFormulaAr": "عَنِ النَّبِيِّ",
+      "transmissionFormulaEn": "From the Prophet"
+    },
+    {
+      "narratorId": "prophet-muhammad",
+      "order": 6,
+      "roleTitle": "Messenger of Allah ﷺ",
+      "transmissionFormulaAr": "قَالَ",
+      "transmissionFormulaEn": "Said"
+    }
+  ],
+  "2076": [
+    {
+      "narratorId": "al-bukhari",
+      "order": 1,
+      "roleTitle": "Compiler & Author",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "qutaibah-ibn-said",
+      "order": 2,
+      "roleTitle": "Direct Teacher",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "sufyan-al-thawri",
+      "order": 3,
+      "roleTitle": "Successor's Successor (Atba')",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "anas-ibn-malik",
+      "order": 4,
+      "roleTitle": "Companion (Sahabi)",
+      "transmissionFormulaAr": "عَنْ رَسُولِ اللَّهِ",
+      "transmissionFormulaEn": "From the Messenger of Allah"
+    },
+    {
+      "narratorId": "prophet-muhammad",
+      "order": 5,
+      "roleTitle": "Messenger of Allah ﷺ",
+      "transmissionFormulaAr": "قَالَ",
+      "transmissionFormulaEn": "Said"
+    }
+  ],
+  "2079": [
+    {
+      "narratorId": "al-bukhari",
+      "order": 1,
+      "roleTitle": "Compiler & Author",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "musaddad-ibn-musarhad",
+      "order": 2,
+      "roleTitle": "Direct Teacher",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "malik-ibn-anas",
+      "order": 3,
+      "roleTitle": "Successor's Successor (Atba')",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "nafi-mawla-ibn-umar",
+      "order": 4,
+      "roleTitle": "Successor (Tabi'i)",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "abdullah-ibn-umar",
+      "order": 5,
+      "roleTitle": "Companion (Sahabi)",
+      "transmissionFormulaAr": "عَنِ النَّبِيِّ",
+      "transmissionFormulaEn": "From the Prophet"
+    },
+    {
+      "narratorId": "prophet-muhammad",
+      "order": 6,
+      "roleTitle": "Messenger of Allah ﷺ",
+      "transmissionFormulaAr": "قَالَ",
+      "transmissionFormulaEn": "Said"
+    }
+  ],
+  "2444": [
+    {
+      "narratorId": "al-bukhari",
+      "order": 1,
+      "roleTitle": "Compiler & Author",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "musaddad-ibn-musarhad",
+      "order": 2,
+      "roleTitle": "Direct Teacher",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "shuba-ibn-al-hajjaj",
+      "order": 3,
+      "roleTitle": "Successor's Successor (Atba')",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "anas-ibn-malik",
+      "order": 4,
+      "roleTitle": "Companion (Sahabi)",
+      "transmissionFormulaAr": "قَالَ: قَالَ رَسُولُ اللَّهِ",
+      "transmissionFormulaEn": "Said: The Messenger of Allah said"
+    },
+    {
+      "narratorId": "prophet-muhammad",
+      "order": 5,
+      "roleTitle": "Messenger of Allah ﷺ",
+      "transmissionFormulaAr": "قَالَ",
+      "transmissionFormulaEn": "Said"
+    }
+  ],
+  "3442": [
+    {
+      "narratorId": "al-bukhari",
+      "order": 1,
+      "roleTitle": "Compiler & Author",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "qutaibah-ibn-said",
+      "order": 2,
+      "roleTitle": "Direct Teacher",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "malik-ibn-anas",
+      "order": 3,
+      "roleTitle": "Successor's Successor (Atba')",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "abu-salih-al-samman",
+      "order": 4,
+      "roleTitle": "Successor (Tabi'i)",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "abu-hurairah",
+      "order": 5,
+      "roleTitle": "Companion (Sahabi)",
+      "transmissionFormulaAr": "عَنِ النَّبِيِّ",
+      "transmissionFormulaEn": "From the Prophet"
+    },
+    {
+      "narratorId": "prophet-muhammad",
+      "order": 6,
+      "roleTitle": "Messenger of Allah ﷺ",
+      "transmissionFormulaAr": "قَالَ",
+      "transmissionFormulaEn": "Said"
+    }
+  ],
+  "5090": [
+    {
+      "narratorId": "al-bukhari",
+      "order": 1,
+      "roleTitle": "Compiler & Author",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "musaddad-ibn-musarhad",
+      "order": 2,
+      "roleTitle": "Direct Teacher",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "sufyan-al-thawri",
+      "order": 3,
+      "roleTitle": "Successor's Successor (Atba')",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "abu-salih-al-samman",
+      "order": 4,
+      "roleTitle": "Successor (Tabi'i)",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "abu-hurairah",
+      "order": 5,
+      "roleTitle": "Companion (Sahabi)",
+      "transmissionFormulaAr": "عَنِ النَّبِيِّ",
+      "transmissionFormulaEn": "From the Prophet"
+    },
+    {
+      "narratorId": "prophet-muhammad",
+      "order": 6,
+      "roleTitle": "Messenger of Allah ﷺ",
+      "transmissionFormulaAr": "قَالَ",
+      "transmissionFormulaEn": "Said"
+    }
+  ],
+  "5688": [
+    {
+      "narratorId": "al-bukhari",
+      "order": 1,
+      "roleTitle": "Compiler & Author",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "ali-ibn-al-madini",
+      "order": 2,
+      "roleTitle": "Direct Teacher",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "sufyan-ibn-uyaynah",
+      "order": 3,
+      "roleTitle": "Successor's Successor (Atba')",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "ibn-shihab-al-zuhri",
+      "order": 4,
+      "roleTitle": "Successor (Tabi'i)",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "abu-hurairah",
+      "order": 5,
+      "roleTitle": "Companion (Sahabi)",
+      "transmissionFormulaAr": "سَمِعَ رَسُولَ اللَّهِ",
+      "transmissionFormulaEn": "Heard the Messenger of Allah"
+    },
+    {
+      "narratorId": "prophet-muhammad",
+      "order": 6,
+      "roleTitle": "Messenger of Allah ﷺ",
+      "transmissionFormulaAr": "يَقُولُ",
+      "transmissionFormulaEn": "Saying"
+    }
+  ],
+  "5971": [
+    {
+      "narratorId": "al-bukhari",
+      "order": 1,
+      "roleTitle": "Compiler & Author",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "qutaibah-ibn-said",
+      "order": 2,
+      "roleTitle": "Direct Teacher",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "sufyan-al-thawri",
+      "order": 3,
+      "roleTitle": "Successor's Successor (Atba')",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "abu-salih-al-samman",
+      "order": 4,
+      "roleTitle": "Successor (Tabi'i)",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "abu-hurairah",
+      "order": 5,
+      "roleTitle": "Companion (Sahabi)",
+      "transmissionFormulaAr": "قَالَ",
+      "transmissionFormulaEn": "Narrated"
+    },
+    {
+      "narratorId": "prophet-muhammad",
+      "order": 6,
+      "roleTitle": "Messenger of Allah ﷺ",
+      "transmissionFormulaAr": "فَقَالَ",
+      "transmissionFormulaEn": "He replied"
+    }
+  ],
+  "6018": [
+    {
+      "narratorId": "al-bukhari",
+      "order": 1,
+      "roleTitle": "Compiler & Author",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "abdullah-ibn-yusuf",
+      "order": 2,
+      "roleTitle": "Direct Teacher",
+      "transmissionFormulaAr": "أَخْبَرَنَا",
+      "transmissionFormulaEn": "Informed us"
+    },
+    {
+      "narratorId": "malik-ibn-anas",
+      "order": 3,
+      "roleTitle": "Successor's Successor (Atba')",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "said-ibn-al-musayyib",
+      "order": 4,
+      "roleTitle": "Senior Successor (Kibar al-Tabi'in)",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "abu-hurairah",
+      "order": 5,
+      "roleTitle": "Companion (Sahabi)",
+      "transmissionFormulaAr": "أَنَّ رَسُولَ اللَّهِ",
+      "transmissionFormulaEn": "That the Messenger of Allah"
+    },
+    {
+      "narratorId": "prophet-muhammad",
+      "order": 6,
+      "roleTitle": "Messenger of Allah ﷺ",
+      "transmissionFormulaAr": "قَالَ",
+      "transmissionFormulaEn": "Said"
+    }
+  ],
+  "6114": [
+    {
+      "narratorId": "al-bukhari",
+      "order": 1,
+      "roleTitle": "Compiler & Author",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "abdullah-ibn-yusuf",
+      "order": 2,
+      "roleTitle": "Direct Teacher",
+      "transmissionFormulaAr": "أَخْبَرَنَا",
+      "transmissionFormulaEn": "Informed us"
+    },
+    {
+      "narratorId": "malik-ibn-anas",
+      "order": 3,
+      "roleTitle": "Successor's Successor (Atba')",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "said-ibn-al-musayyib",
+      "order": 4,
+      "roleTitle": "Senior Successor (Kibar al-Tabi'in)",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "abu-hurairah",
+      "order": 5,
+      "roleTitle": "Companion (Sahabi)",
+      "transmissionFormulaAr": "أَنَّ رَسُولَ اللَّهِ",
+      "transmissionFormulaEn": "That the Messenger of Allah"
+    },
+    {
+      "narratorId": "prophet-muhammad",
+      "order": 6,
+      "roleTitle": "Messenger of Allah ﷺ",
+      "transmissionFormulaAr": "قَالَ",
+      "transmissionFormulaEn": "Said"
+    }
+  ],
+  "6412": [
+    {
+      "narratorId": "al-bukhari",
+      "order": 1,
+      "roleTitle": "Compiler & Author",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "al-humaydi",
+      "order": 2,
+      "roleTitle": "Direct Teacher",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "sufyan-ibn-uyaynah",
+      "order": 3,
+      "roleTitle": "Successor's Successor (Atba')",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "abdullah-ibn-abbas",
+      "order": 4,
+      "roleTitle": "Companion (Sahabi)",
+      "transmissionFormulaAr": "قَالَ: قَالَ النَّبِيُّ",
+      "transmissionFormulaEn": "Said: The Prophet said"
+    },
+    {
+      "narratorId": "prophet-muhammad",
+      "order": 5,
+      "roleTitle": "Messenger of Allah ﷺ",
+      "transmissionFormulaAr": "قَالَ",
+      "transmissionFormulaEn": "Said"
+    }
+  ],
+  "6416": [
+    {
+      "narratorId": "al-bukhari",
+      "order": 1,
+      "roleTitle": "Compiler & Author",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "ali-ibn-al-madini",
+      "order": 2,
+      "roleTitle": "Direct Teacher",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "sufyan-ibn-uyaynah",
+      "order": 3,
+      "roleTitle": "Successor's Successor (Atba')",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "al-amash",
+      "order": 4,
+      "roleTitle": "Successor (Tabi'i)",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "abdullah-ibn-umar",
+      "order": 5,
+      "roleTitle": "Companion (Sahabi)",
+      "transmissionFormulaAr": "قَالَ: أَخَذَ رَسُولُ اللَّهِ بِمَنْكِبِي",
+      "transmissionFormulaEn": "Said: The Messenger of Allah took hold of my shoulder"
+    },
+    {
+      "narratorId": "prophet-muhammad",
+      "order": 6,
+      "roleTitle": "Messenger of Allah ﷺ",
+      "transmissionFormulaAr": "فَقَالَ",
+      "transmissionFormulaEn": "And said"
+    }
+  ],
+  "6502": [
+    {
+      "narratorId": "al-bukhari",
+      "order": 1,
+      "roleTitle": "Compiler & Author",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "qutaibah-ibn-said",
+      "order": 2,
+      "roleTitle": "Direct Teacher",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "malik-ibn-anas",
+      "order": 3,
+      "roleTitle": "Successor's Successor (Atba')",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "abu-salih-al-samman",
+      "order": 4,
+      "roleTitle": "Successor (Tabi'i)",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "abu-hurairah",
+      "order": 5,
+      "roleTitle": "Companion (Sahabi)",
+      "transmissionFormulaAr": "قَالَ: قَالَ رَسُولُ اللَّهِ",
+      "transmissionFormulaEn": "Said: The Messenger of Allah said"
+    },
+    {
+      "narratorId": "prophet-muhammad",
+      "order": 6,
+      "roleTitle": "Messenger of Allah ﷺ",
+      "transmissionFormulaAr": "قَالَ",
+      "transmissionFormulaEn": "Said (Hadith Qudsi)"
+    }
+  ],
+  "7280": [
+    {
+      "narratorId": "al-bukhari",
+      "order": 1,
+      "roleTitle": "Compiler & Author",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "musaddad-ibn-musarhad",
+      "order": 2,
+      "roleTitle": "Direct Teacher",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "abu-salih-al-samman",
+      "order": 3,
+      "roleTitle": "Successor (Tabi'i)",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "abu-hurairah",
+      "order": 4,
+      "roleTitle": "Companion (Sahabi)",
+      "transmissionFormulaAr": "أَنَّ رَسُولَ اللَّهِ",
+      "transmissionFormulaEn": "That the Messenger of Allah"
+    },
+    {
+      "narratorId": "prophet-muhammad",
+      "order": 5,
+      "roleTitle": "Messenger of Allah ﷺ",
+      "transmissionFormulaAr": "قَالَ",
+      "transmissionFormulaEn": "Said"
+    }
+  ],
+  "7372": [
+    {
+      "narratorId": "al-bukhari",
+      "order": 1,
+      "roleTitle": "Compiler & Author",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "ali-ibn-al-madini",
+      "order": 2,
+      "roleTitle": "Direct Teacher",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "sufyan-ibn-uyaynah",
+      "order": 3,
+      "roleTitle": "Successor's Successor (Atba')",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "abdullah-ibn-abbas",
+      "order": 4,
+      "roleTitle": "Companion (Sahabi)",
+      "transmissionFormulaAr": "عَنِ ابْنِ عَبَّاسٍ",
+      "transmissionFormulaEn": "From Ibn Abbas"
+    },
+    {
+      "narratorId": "prophet-muhammad",
+      "order": 5,
+      "roleTitle": "Messenger of Allah ﷺ",
+      "transmissionFormulaAr": "قَالَ",
+      "transmissionFormulaEn": "Said"
+    }
+  ],
+  "7563": [
+    {
+      "narratorId": "al-bukhari",
+      "order": 1,
+      "roleTitle": "Compiler & Author",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us",
+      "narrationNote": "Concluded his Sahih with this benediction of eternal hope in divine mercy."
+    },
+    {
+      "narratorId": "qutaibah-ibn-said",
+      "order": 2,
+      "roleTitle": "Direct Teacher",
+      "transmissionFormulaAr": "حَدَّثَنَا",
+      "transmissionFormulaEn": "Narrated to us"
+    },
+    {
+      "narratorId": "sufyan-al-thawri",
+      "order": 3,
+      "roleTitle": "Successor's Successor (Atba')",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "abu-salih-al-samman",
+      "order": 4,
+      "roleTitle": "Successor (Tabi'i)",
+      "transmissionFormulaAr": "عَنْ",
+      "transmissionFormulaEn": "From"
+    },
+    {
+      "narratorId": "abu-hurairah",
+      "order": 5,
+      "roleTitle": "Companion (Sahabi)",
+      "transmissionFormulaAr": "قَالَ: قَالَ النَّبِيُّ",
+      "transmissionFormulaEn": "Said: The Prophet said"
+    },
+    {
+      "narratorId": "prophet-muhammad",
+      "order": 6,
+      "roleTitle": "Messenger of Allah ﷺ",
+      "transmissionFormulaAr": "قَالَ",
+      "transmissionFormulaEn": "Said"
+    }
+  ]
+}
